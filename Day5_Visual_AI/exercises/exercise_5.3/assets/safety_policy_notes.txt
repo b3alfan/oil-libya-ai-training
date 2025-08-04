@@ -1,0 +1,36 @@
+# Exercise 5.3 – Generate a Safety Induction Checklist
+
+**Objective:**  
+Use AI to turn raw safety policy notes into a structured checklist and induction form for new staff and contractors.
+
+---
+
+## 📝 Task
+
+1. Open the file [`safety_policy_notes.txt`](assets/safety_policy_notes.txt)
+2. Ask the AI to:
+   - Create a structured safety induction checklist
+   - Format it with checkboxes or sections: PPE, Fire, Behavior, Emergency Protocols
+   - Bonus: Ask for a printable induction form for new workers to sign
+
+---
+
+## 🎯 Deliverables
+
+- Safety Induction Checklist (structured)
+- Optional printable form or agreement
+- Prompts used
+
+---
+
+## 💡 Prompt Ideas
+
+- “Turn these safety notes into a site induction checklist”
+- “Generate a printable form based on this safety policy”
+- “Summarize this policy into a checklist with headings and checkboxes”
+
+---
+
+## 📁 Assets
+
+- [`safety_policy_notes.txt`](assets/safety_policy_notes.txt)

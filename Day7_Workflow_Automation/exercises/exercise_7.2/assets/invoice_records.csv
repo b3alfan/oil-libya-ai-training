@@ -1,0 +1,11 @@
+Invoice No,Vendor,Amount (Nfk),Date,Department,Notes
+INV00123,DieselTech Ltd,35000,2024-02-03,Operations,Monthly diesel shipment
+INV00124,GreenLeaf Catering,4200,2024-02-04,HR,Monthly staff lunch
+INV00125,DieselTech Ltd,35000,2024-02-03,Operations,Duplicate?
+INV00126,Megatronics PLC,9800,2024-02-05,Engineering,Repair kit
+INV00127,DslTech LTD,35000,2024-02-03,Operations,Typo in name?
+INV00128,Eritrea PrintWorks,2750,2024-02-06,Admin,Promotional banners
+INV00129,GreenLeaf Catering,7200,2024-02-07,HR,Unusually high lunch order
+INV00130,FuelFlow Partners,860000,2024-02-07,Finance,Large fuel advance
+INV00131,Eritrea PrintWorks,2750,2024-02-08,Admin,Repeated print job?
+INV00132,Starline Security,18000,2024-02-08,Operations,New camera install

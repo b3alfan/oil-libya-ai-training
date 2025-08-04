@@ -1,0 +1,7 @@
+Chatbot Use Case Scenarios for Oil & Gas Customer Service:
+
+1. Track the status of a fuel delivery order
+2. Request a copy of the latest invoice or payment receipt
+3. Submit a complaint or service feedback
+4. Request updated product prices (Diesel, LPG, Lubricants, etc.)
+5. Schedule a fuel refill for a regular customer location

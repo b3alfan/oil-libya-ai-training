@@ -1,0 +1,15 @@
+Month,Department,Category,Amount (Nfk)
+Jan,Procurement,Office Supplies,3200
+Jan,Sales,Fuel Samples,5400
+Jan,HR,Training Materials,4000
+Feb,HR,Training Materials,4100
+Feb,Sales,Fuel Samples,5300
+Feb,Finance,Consultants,18000
+Mar,Sales,Fuel Samples,12100
+Mar,Finance,Consultants,17800
+Mar,Procurement,Office Supplies,3200
+Mar,HR,Staff Welfare,5200
+Apr,Sales,Fuel Samples,5450
+Apr,Finance,Consultants,90000
+Apr,HR,Staff Welfare,5300
+Apr,Procurement,Office Supplies,3200

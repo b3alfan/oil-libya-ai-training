@@ -1,0 +1,10 @@
+Customer: TDA Fuel Transport  
+Date: July 18, 2024  
+Order No: #INV-773  
+Items Ordered:  
+- Diesel (5000L @ 34.25 Nakfa)  
+- Motor Oil 20W50 (12 drums @ 870 Nakfa)  
+- Transmission Fluid (5 drums @ 1150 Nakfa)  
+Delivery Location: Massawa Depot  
+Payment terms: Due in 15 days  
+Remarks: Rush delivery required, client called on 18/7 for confirmation

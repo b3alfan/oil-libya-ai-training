@@ -1,0 +1,5 @@
+campaign_id	campaign_name	channel	start_date	end_date	reach	engagement	conversion_rate	notes
+101	Summer Fuel Promo	Facebook	2024-06-01	2024-06-15	15000	1200.0	0.05	Performed well in urban areas
+102	Loyalty Card Push	SMS	2024-06-10	2024-06-25	8200	500.0	0.03	Low delivery rate, consider re-targeting
+103	Lubricants Awareness	Radio	2024-07-01	2024-07-10	60000			No tracking data available
+104	Depot Reopening Promo	Instagram	2024-07-15	2024-07-25	10000	750.0	0.06	Good engagement from younger demographic
