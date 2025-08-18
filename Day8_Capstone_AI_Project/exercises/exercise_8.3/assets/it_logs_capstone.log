@@ -1,0 +1,700 @@
+2025-08-10T08:00:00.217Z [db-01] [ERROR] code=POOL_EXHAUSTED size=170 waiting=44 msg="Connection pool exhausted" request_id=b8ic8bbi4wir
+2025-08-10T08:00:30.204Z [cache-01] [INFO] code=CACHE_MISS key=session:uhz1gv0e namespace=sessions request_id=38daly8ozcyw
+2025-08-10T08:01:00.208Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=8128 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=4ve92mpnsm43
+2025-08-10T08:01:30.188Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=sessions app=app-02 request_id=p08j3trp0j43 pool_wait_ms=20000
+2025-08-10T08:02:00.669Z [app-02] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=400 request_id=1uymrlrmjkv5
+2025-08-10T08:02:30.695Z [web-01] [WARN] code=HIGH_CPU usage=98% process=app pid=4130 request_id=dzr1yxr2dhyl
+2025-08-10T08:03:00.296Z [web-03] [WARN] code=HIGH_CPU usage=97% process=app pid=9698 request_id=m9tmqlizl08y
+2025-08-10T08:03:30.666Z [app-01] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=800 request_id=09skdgigatj9
+2025-08-10T08:04:00.603Z [gw-02] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=18426 cause=db_timeout request_id=w1dakrm8j5ec path=/api/checkout
+2025-08-10T08:04:30.980Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-03 request_id=fuk9e1v2isqp pool_wait_ms=20000
+2025-08-10T08:05:00.561Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=28% request_id=kwv08hhxfgca
+2025-08-10T08:05:30.330Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-03 request_id=bkk4cij2v2he pool_wait_ms=30000
+2025-08-10T08:06:00.182Z [web-02] [WARN] code=HIGH_CPU usage=94% process=app pid=3330 request_id=cfl0ukeyz7sr
+2025-08-10T08:06:30.631Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=inventory app=app-01 request_id=vaiy4va13u1g pool_wait_ms=30000
+2025-08-10T08:07:00.510Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-02 request_id=9p38qoldforx pool_wait_ms=20000
+2025-08-10T08:07:30.610Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=stations app=app-03 request_id=dje153a5qbsw pool_wait_ms=45000
+2025-08-10T08:08:00.195Z [app-03] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=200 request_id=ht7pze9viftt
+2025-08-10T08:08:30.864Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-01 request_id=xf7kzorqqfgv pool_wait_ms=15000
+2025-08-10T08:09:00.881Z [app-01] [WARN] code=AUTH_FAIL user=u2143 ip=192.168.141.212 reason=invalid_password request_id=m2ja04ux5qrl
+2025-08-10T08:09:30.767Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=inventory app=app-02 request_id=59in4olr6n92 pool_wait_ms=30000
+2025-08-10T08:10:00.371Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-02 request_id=sv55psq0oxfq pool_wait_ms=20000
+2025-08-10T08:10:30.394Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6905 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=x444nlz15bcw
+2025-08-10T08:11:00.521Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-03 request_id=91zdfkblcmpi pool_wait_ms=45000
+2025-08-10T08:11:30.793Z [app-01] [INFO] path=/ status=404 latency_ms=204 request_id=gvnyruiwqy6q region=us-east
+2025-08-10T08:12:00.688Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3094 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=pmvxpj4hnriu
+2025-08-10T08:12:30.335Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=7528 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=a3oa52960361
+2025-08-10T08:13:00.192Z [app-03] [WARN] code=AUTH_FAIL user=u6772 ip=192.168.112.97 reason=invalid_password request_id=wyzx4w6xlpu0
+2025-08-10T08:13:30.446Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4476 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=get8t63j3r30
+2025-08-10T08:14:00.788Z [gw-01] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=14673 cause=db_timeout request_id=f840982n2atq path=/api/checkout
+2025-08-10T08:14:30.409Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-03 request_id=37dia5u6hc36 pool_wait_ms=45000
+2025-08-10T08:15:00.844Z [db-01] [ERROR] code=POOL_EXHAUSTED size=154 waiting=18 msg="Connection pool exhausted" request_id=bb9eitnn8ztv
+2025-08-10T08:15:30.760Z [web-02] [WARN] code=HIGH_CPU usage=96% process=app pid=2622 request_id=4w7kyhqin9n6
+2025-08-10T08:16:00.310Z [db-01] [ERROR] code=POOL_EXHAUSTED size=141 waiting=35 msg="Connection pool exhausted" request_id=j883dhx8bm92
+2025-08-10T08:16:30.987Z [web-01] [WARN] code=HIGH_CPU usage=98% process=app pid=4394 request_id=v3i12vj99t2d
+2025-08-10T08:17:00.562Z [app-01] [WARN] code=NET_RETRY attempts=3 endpoint=db:5432 backoff_ms=200 request_id=m2vajepecqnv
+2025-08-10T08:17:30.381Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=inventory app=app-01 request_id=q8croyr6ccvc pool_wait_ms=30000
+2025-08-10T08:18:00.333Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=inventory app=app-03 request_id=9tqvdz4x1zhq pool_wait_ms=45000
+2025-08-10T08:18:30.669Z [app-02] [INFO] path=/api/loyalty status=200 latency_ms=484 request_id=odpxnf7c3dd0 region=eu-central
+2025-08-10T08:19:00.619Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=33% request_id=8uyo57p6bkld
+2025-08-10T08:19:30.126Z [web-02] [WARN] code=HIGH_CPU usage=92% process=app pid=8900 request_id=id4n1u3493wx
+2025-08-10T08:20:00.131Z [app-03] [WARN] code=GC_PAUSE duration_ms=1151 heap_used_mb=1859 request_id=3jgzlma5uofw
+2025-08-10T08:20:30.777Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=users app=app-03 request_id=pmnz1udbfwyj pool_wait_ms=45000
+2025-08-10T08:21:00.309Z [app-02] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=1600 request_id=ohsmdyvslh9b
+2025-08-10T08:21:30.859Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3530 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=1kerpetiuymo
+2025-08-10T08:22:00.470Z [app-01] [WARN] code=AUTH_FAIL user=u8147 ip=192.168.9.235 reason=invalid_password request_id=75uuzpeal2w3
+2025-08-10T08:22:30.459Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-02 request_id=poc50h2cwtg1 pool_wait_ms=20000
+2025-08-10T08:23:00.678Z [web-02] [WARN] code=HIGH_CPU usage=93% process=app pid=2684 request_id=fhv1xg1r11q7
+2025-08-10T08:23:30.984Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-03 request_id=fcpkjcslqc3c pool_wait_ms=30000
+2025-08-10T08:24:00.930Z [web-01] [WARN] code=HIGH_CPU usage=99% process=app pid=9307 request_id=nu80b6ugvs8q
+2025-08-10T08:24:30.908Z [app-02] [WARN] code=GC_PAUSE duration_ms=931 heap_used_mb=684 request_id=sgippsfnkomv
+2025-08-10T08:25:00.771Z [app-03] [WARN] code=GC_PAUSE duration_ms=862 heap_used_mb=1197 request_id=cdyk0x65mufm
+2025-08-10T08:25:30.620Z [db-01] [ERROR] code=POOL_EXHAUSTED size=150 waiting=48 msg="Connection pool exhausted" request_id=zduxlez896dy
+2025-08-10T08:26:00.639Z [db-01] [ERROR] code=POOL_EXHAUSTED size=142 waiting=33 msg="Connection pool exhausted" request_id=l8m1g9fk2st0
+2025-08-10T08:26:30.554Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=17845 cause=db_timeout request_id=5wvfgyw6zbnz path=/api/checkout
+2025-08-10T08:27:00.265Z [db-02] [ERROR] code=POOL_EXHAUSTED size=122 waiting=24 msg="Connection pool exhausted" request_id=tl3q4n89qkns
+2025-08-10T08:27:30.193Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-01 request_id=brn7zsedfqs3 pool_wait_ms=30000
+2025-08-10T08:28:00.949Z [app-01] [WARN] code=AUTH_FAIL user=u8391 ip=192.168.178.13 reason=invalid_password request_id=oonncildzmfb
+2025-08-10T08:28:30.224Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7502 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=1qw6ahf7vp1i
+2025-08-10T08:29:00.291Z [app-03] [INFO] path=/api/login status=200 latency_ms=449 request_id=2qd6vasifpwi region=us-east
+2025-08-10T08:29:30.453Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-03 request_id=css9toqw9ja2 pool_wait_ms=30000
+2025-08-10T08:30:00.164Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7804 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=10lbt3g2qzw3
+2025-08-10T08:30:30.148Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-02 request_id=h25llo3rbxk5 pool_wait_ms=30000
+2025-08-10T08:31:00.844Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-03 request_id=en606n9rr7s2 pool_wait_ms=30000
+2025-08-10T08:31:30.990Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=8293 cause=db_timeout request_id=v3tlcxlvpymb path=/api/checkout
+2025-08-10T08:32:00.135Z [web-03] [WARN] code=HIGH_CPU usage=99% process=app pid=8126 request_id=j98cwn2y8fv2
+2025-08-10T08:32:30.421Z [web-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=17% request_id=ixn8bfqnpcen
+2025-08-10T08:33:00.304Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=4083 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=8ags6e1zhwy9
+2025-08-10T08:33:30.828Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2911 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=q6qdy4lmct64
+2025-08-10T08:34:00.726Z [app-03] [WARN] code=GC_PAUSE duration_ms=1149 heap_used_mb=1946 request_id=w2sehe2atn2t
+2025-08-10T08:34:30.898Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=users app=app-01 request_id=9zs13c9xqym5 pool_wait_ms=45000
+2025-08-10T08:35:00.390Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7041 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=1es53skf7i8s
+2025-08-10T08:35:30.962Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=stations app=app-01 request_id=wtektsg7fxzv pool_wait_ms=20000
+2025-08-10T08:36:00.261Z [cache-01] [INFO] code=CACHE_MISS key=session:7b5c81jh namespace=sessions request_id=uwb6txki3oqy
+2025-08-10T08:36:30.577Z [worker-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=28% request_id=rhvlz049enul
+2025-08-10T08:37:00.568Z [cache-01] [INFO] code=CACHE_MISS key=session:eqfb85p8 namespace=sessions request_id=637zgf9q5rdo
+2025-08-10T08:37:30.510Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-01 request_id=br5xqt4p501n pool_wait_ms=15000
+2025-08-10T08:38:00.474Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=users app=app-03 request_id=tcs1k9ye9o2m pool_wait_ms=30000
+2025-08-10T08:38:30.857Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=stations app=app-01 request_id=sbelrqvslwf9 pool_wait_ms=45000
+2025-08-10T08:39:00.744Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4251 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=ssruraldol65
+2025-08-10T08:39:30.132Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=users app=app-03 request_id=821uzvgww4fy pool_wait_ms=30000
+2025-08-10T08:40:00.432Z [worker-02] [WARN] code=HIGH_CPU usage=91% process=app pid=4125 request_id=alfyo1750ceh
+2025-08-10T08:40:30.405Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-02 request_id=8qtty5y2jr8k pool_wait_ms=30000
+2025-08-10T08:41:00.504Z [app-01] [WARN] code=GC_PAUSE duration_ms=1164 heap_used_mb=1121 request_id=1zyrru7zkut6
+2025-08-10T08:41:30.730Z [gw-02] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=19665 cause=db_timeout request_id=kkzmpjrht7ze path=/api/checkout
+2025-08-10T08:42:00.768Z [worker-02] [WARN] code=HIGH_CPU usage=93% process=app pid=4972 request_id=b6iidlrye89f
+2025-08-10T08:42:30.956Z [app-02] [INFO] path=/api/loyalty status=201 latency_ms=224 request_id=lx6dut076g5g region=eu-central
+2025-08-10T08:43:00.569Z [cache-01] [INFO] code=CACHE_MISS key=session:or7875au namespace=sessions request_id=d9k9tr74qgef
+2025-08-10T08:43:30.243Z [db-01] [ERROR] code=POOL_EXHAUSTED size=115 waiting=10 msg="Connection pool exhausted" request_id=02u1g463sdyg
+2025-08-10T08:44:00.515Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-02 request_id=ji18k0axycel pool_wait_ms=15000
+2025-08-10T08:44:30.796Z [cache-01] [INFO] code=CACHE_MISS key=session:y751yw7n namespace=sessions request_id=h8rq9nz61231
+2025-08-10T08:45:00.310Z [worker-02] [WARN] code=HIGH_CPU usage=91% process=app pid=9609 request_id=qzcuctsuflse
+2025-08-10T08:45:30.863Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6577 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=ds3qsqcq30o3
+2025-08-10T08:46:00.530Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-03 request_id=pztc69qkgex0 pool_wait_ms=15000
+2025-08-10T08:46:30.123Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-02 request_id=nyxtxmgtt0ia pool_wait_ms=45000
+2025-08-10T08:47:00.116Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=5592 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=t3imj70e3p15
+2025-08-10T08:47:30.396Z [app-01] [WARN] code=GC_PAUSE duration_ms=411 heap_used_mb=649 request_id=dbvzb0oih5cs
+2025-08-10T08:48:00.148Z [app-01] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=800 request_id=i59sojuv0gyu
+2025-08-10T08:48:30.526Z [db-02] [ERROR] code=POOL_EXHAUSTED size=138 waiting=43 msg="Connection pool exhausted" request_id=lofn1r4kz36u
+2025-08-10T08:49:00.292Z [db-01] [ERROR] code=POOL_EXHAUSTED size=192 waiting=34 msg="Connection pool exhausted" request_id=ihx74d0gjyv5
+2025-08-10T08:49:30.345Z [app-03] [WARN] code=AUTH_FAIL user=u4555 ip=192.168.245.106 reason=invalid_password request_id=5l8a78e9rivh
+2025-08-10T08:50:00.523Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=19706 cause=db_timeout request_id=ntmjsrd9q46n path=/api/checkout
+2025-08-10T08:50:30.881Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-03 request_id=atvzkhiuit7m pool_wait_ms=20000
+2025-08-10T08:51:00.784Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=stations app=app-02 request_id=g2gzr7txcb48 pool_wait_ms=45000
+2025-08-10T08:51:30.664Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-01 request_id=4izasnwywrra pool_wait_ms=20000
+2025-08-10T08:52:00.639Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=1897 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=tj9a3y36ddfg
+2025-08-10T08:52:30.486Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-02 request_id=c8qizk3c9xbo pool_wait_ms=45000
+2025-08-10T08:53:00.680Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-02 request_id=zc4xl9967i6y pool_wait_ms=15000
+2025-08-10T08:53:30.406Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-02 request_id=yktxg4ahf337 pool_wait_ms=15000
+2025-08-10T08:54:00.337Z [web-02] [WARN] code=HIGH_CPU usage=99% process=app pid=4939 request_id=u4ytn02yc0md
+2025-08-10T08:54:30.830Z [app-01] [WARN] code=AUTH_FAIL user=u6580 ip=192.168.203.167 reason=invalid_password request_id=bj9rm7pyxdw2
+2025-08-10T08:55:00.670Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-01 request_id=n2fomd7q1ddp pool_wait_ms=20000
+2025-08-10T08:55:30.685Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-03 request_id=amdvlnknd669 pool_wait_ms=15000
+2025-08-10T08:56:00.731Z [worker-02] [WARN] code=HIGH_CPU usage=92% process=app pid=7237 request_id=gjjfgjk2n7zr
+2025-08-10T08:56:30.811Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-02 request_id=k8lw2lm349el pool_wait_ms=20000
+2025-08-10T08:57:00.706Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-02 request_id=88kzruin3oeu pool_wait_ms=20000
+2025-08-10T08:57:30.533Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=inventory app=app-01 request_id=7h23c42yfkjf pool_wait_ms=45000
+2025-08-10T08:58:00.187Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=8211 cause=db_timeout request_id=9ros7yt2m6tw path=/api/checkout
+2025-08-10T08:58:30.327Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=39% request_id=ixfwuxx8l2dd
+2025-08-10T08:59:00.456Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=inventory app=app-03 request_id=nqyyf9rk7d30 pool_wait_ms=45000
+2025-08-10T08:59:30.858Z [app-02] [WARN] code=AUTH_FAIL user=u6620 ip=192.168.233.105 reason=invalid_password request_id=smdzqcbzamd2
+2025-08-10T09:00:00.104Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-03 request_id=lpq2wgxo05qp pool_wait_ms=20000
+2025-08-10T09:00:30.711Z [web-02] [WARN] code=HIGH_CPU usage=93% process=app pid=5560 request_id=13cd5glqj5sx
+2025-08-10T09:01:00.810Z [app-02] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=200 request_id=m4w3zkwdeekg
+2025-08-10T09:01:30.734Z [db-02] [ERROR] code=POOL_EXHAUSTED size=86 waiting=36 msg="Connection pool exhausted" request_id=vuprt77ggkg4
+2025-08-10T09:02:00.325Z [web-01] [WARN] code=HIGH_CPU usage=95% process=app pid=1157 request_id=rhnuxorzpgu2
+2025-08-10T09:02:30.874Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2067 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=ik2u1rsujt9t
+2025-08-10T09:03:00.894Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=8025 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=t9d31k9qm3p9
+2025-08-10T09:03:30.399Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-01 request_id=4vpw232utvg9 pool_wait_ms=30000
+2025-08-10T09:04:00.355Z [web-03] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=33% request_id=j49yd82795e5
+2025-08-10T09:04:30.565Z [app-01] [INFO] path=/api/orders status=404 latency_ms=349 request_id=1yrujoqw5dsk region=us-east
+2025-08-10T09:05:00.430Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=4481 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=54d8wz42o83r
+2025-08-10T09:05:30.100Z [web-03] [WARN] code=HIGH_CPU usage=95% process=app pid=9967 request_id=uurmybd2qe4p
+2025-08-10T09:06:00.873Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3457 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=5k55dmcxxbw0
+2025-08-10T09:06:30.172Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5316 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=zareiyaz39pe
+2025-08-10T09:07:00.765Z [web-02] [WARN] code=HIGH_CPU usage=96% process=app pid=2463 request_id=0dl5e11e9fta
+2025-08-10T09:07:30.353Z [app-03] [INFO] path=/api/orders status=201 latency_ms=379 request_id=h07wph6fe0mp region=eu-central
+2025-08-10T09:08:00.761Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7080 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=ivzk7a45hvgo
+2025-08-10T09:08:30.881Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=users app=app-01 request_id=ervt997e4uny pool_wait_ms=45000
+2025-08-10T09:09:00.649Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8110 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=acjbc2swsozc
+2025-08-10T09:09:30.847Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6846 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=jlsh3tow4ycz
+2025-08-10T09:10:00.635Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=stations app=app-01 request_id=dpqvl00ezzf8 pool_wait_ms=20000
+2025-08-10T09:10:30.608Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-03 request_id=n050e6mpsj9w pool_wait_ms=20000
+2025-08-10T09:11:00.147Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=5984 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=b4gf16ye0a4a
+2025-08-10T09:11:30.685Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4781 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=7g8b2zxii6l3
+2025-08-10T09:12:00.477Z [web-03] [WARN] code=HIGH_CPU usage=91% process=app pid=9225 request_id=ybisbo551ldq
+2025-08-10T09:12:30.454Z [app-02] [INFO] path=/api/orders status=200 latency_ms=597 request_id=0in8910t2f7a region=eu-west
+2025-08-10T09:13:00.195Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8677 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=8ax40dtirc9z
+2025-08-10T09:13:30.233Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=22% request_id=6szn9dde3cup
+2025-08-10T09:14:00.268Z [web-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=24% request_id=jl2z0ljch2vf
+2025-08-10T09:14:30.977Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-02 request_id=em1qq4d3kzvh pool_wait_ms=45000
+2025-08-10T09:15:00.204Z [db-01] [ERROR] code=POOL_EXHAUSTED size=133 waiting=15 msg="Connection pool exhausted" request_id=z8obk3g84utd
+2025-08-10T09:15:30.761Z [app-01] [WARN] code=AUTH_FAIL user=u2989 ip=192.168.6.31 reason=invalid_password request_id=39e3nwxuj3ac
+2025-08-10T09:16:00.351Z [cache-01] [INFO] code=CACHE_MISS key=session:pe63lbqg namespace=sessions request_id=u3obyghgk5bw
+2025-08-10T09:16:30.830Z [db-02] [ERROR] code=POOL_EXHAUSTED size=125 waiting=36 msg="Connection pool exhausted" request_id=5rdnpx2i9tan
+2025-08-10T09:17:00.338Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=transactions app=app-02 request_id=6snglh62c9t1 pool_wait_ms=30000
+2025-08-10T09:17:30.817Z [cache-01] [INFO] code=CACHE_MISS key=session:9dxj37c9 namespace=sessions request_id=h42m44gv3z6b
+2025-08-10T09:18:00.728Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6450 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=ug95rlrdihsa
+2025-08-10T09:18:30.778Z [web-02] [WARN] code=HIGH_CPU usage=92% process=app pid=6582 request_id=z74lav71448n
+2025-08-10T09:19:00.465Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6600 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=ml90pxrlzu6w
+2025-08-10T09:19:30.928Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7252 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=n0kgazu41ugl
+2025-08-10T09:20:00.355Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=inventory app=app-01 request_id=f0i9g5dzx5qj pool_wait_ms=45000
+2025-08-10T09:20:30.984Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2355 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=jdan085rntdr
+2025-08-10T09:21:00.708Z [app-03] [WARN] code=AUTH_FAIL user=u4695 ip=192.168.83.231 reason=invalid_password request_id=c4kl8cgn0t6d
+2025-08-10T09:21:30.404Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5754 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=pxvpbl9ot7tx
+2025-08-10T09:22:00.183Z [db-01] [ERROR] code=POOL_EXHAUSTED size=110 waiting=13 msg="Connection pool exhausted" request_id=otrbad3wrdhw
+2025-08-10T09:22:30.957Z [worker-01] [WARN] code=HIGH_CPU usage=91% process=app pid=6052 request_id=2q6jxnnngbpj
+2025-08-10T09:23:00.987Z [app-02] [WARN] code=NET_RETRY attempts=2 endpoint=db:5432 backoff_ms=400 request_id=1ydmt8vt43pt
+2025-08-10T09:23:30.271Z [worker-01] [WARN] code=HIGH_CPU usage=99% process=app pid=4860 request_id=rc6zs62ywe1g
+2025-08-10T09:24:00.669Z [web-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=40% request_id=gbcyh3fvl03d
+2025-08-10T09:24:30.208Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-03 request_id=s7azv2efuu8d pool_wait_ms=30000
+2025-08-10T09:25:00.807Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=inventory app=app-01 request_id=5jxurgowyoo5 pool_wait_ms=30000
+2025-08-10T09:25:30.945Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-01 request_id=6a3kkrzd5e9p pool_wait_ms=30000
+2025-08-10T09:26:00.513Z [web-03] [WARN] code=HIGH_CPU usage=94% process=app pid=7828 request_id=vdp6orsnc2cz
+2025-08-10T09:26:30.797Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8193 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=g5hcbbmhnqo7
+2025-08-10T09:27:00.898Z [app-02] [INFO] path=/api/login status=200 latency_ms=401 request_id=vg5vmf60yknf region=eu-west
+2025-08-10T09:27:30.358Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8821 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=xyjoa21a6xva
+2025-08-10T09:28:00.963Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=18677 cause=db_timeout request_id=xpnmjqy3odsx path=/api/checkout
+2025-08-10T09:28:30.158Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-02 request_id=yrmjljx8xgsi pool_wait_ms=30000
+2025-08-10T09:29:00.327Z [worker-02] [WARN] code=HIGH_CPU usage=96% process=app pid=6236 request_id=yzx9jpnbzug0
+2025-08-10T09:29:30.881Z [app-03] [WARN] code=GC_PAUSE duration_ms=747 heap_used_mb=1819 request_id=26ys445gdej3
+2025-08-10T09:30:00.735Z [gw-01] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.171.45 sni=api.oillibya.local request_id=ii5p5nvqebwu
+2025-08-10T09:30:30.423Z [web-01] [WARN] code=HIGH_CPU usage=97% process=app pid=4187 request_id=s5nkb4ehou6q
+2025-08-10T09:31:00.190Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7662 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=2rwgwaj1g1r1
+2025-08-10T09:31:30.741Z [web-02] [WARN] code=HIGH_CPU usage=99% process=app pid=8105 request_id=wo8nbhnal3gy
+2025-08-10T09:32:00.803Z [app-03] [WARN] code=NET_RETRY attempts=3 endpoint=db:5432 backoff_ms=400 request_id=ymenvg3kk0vm
+2025-08-10T09:32:30.226Z [web-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=25% request_id=9r1f63ai9has
+2025-08-10T09:33:00.585Z [db-01] [ERROR] code=POOL_EXHAUSTED size=143 waiting=34 msg="Connection pool exhausted" request_id=5jtb9xxaypnt
+2025-08-10T09:33:30.609Z [db-01] [ERROR] code=POOL_EXHAUSTED size=89 waiting=50 msg="Connection pool exhausted" request_id=apdswzp6swk2
+2025-08-10T09:34:00.213Z [db-01] [ERROR] code=POOL_EXHAUSTED size=100 waiting=26 msg="Connection pool exhausted" request_id=39moft6yriad
+2025-08-10T09:34:30.972Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=stations app=app-03 request_id=82c06xq9jb35 pool_wait_ms=20000
+2025-08-10T09:35:00.494Z [cache-01] [INFO] code=CACHE_MISS key=session:k2l0d1b4 namespace=sessions request_id=xgmpw5d3go8j
+2025-08-10T09:35:30.726Z [app-03] [INFO] path=/health status=201 latency_ms=451 request_id=5ge094d6rupw region=us-east
+2025-08-10T09:36:00.785Z [db-01] [ERROR] code=POOL_EXHAUSTED size=57 waiting=40 msg="Connection pool exhausted" request_id=7eobjlzy1uu9
+2025-08-10T09:36:30.428Z [cache-01] [INFO] code=CACHE_MISS key=session:5sywp0rx namespace=sessions request_id=xf36wa7sqrf1
+2025-08-10T09:37:00.769Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4510 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=bixoiq2q4qer
+2025-08-10T09:37:30.964Z [app-02] [INFO] path=/api/login status=200 latency_ms=433 request_id=bt328w6uxqm3 region=eu-central
+2025-08-10T09:38:00.268Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4519 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=znqdxamw2tnd
+2025-08-10T09:38:30.748Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=9301 cause=db_timeout request_id=0ojhe4h3gm1b path=/api/checkout
+2025-08-10T09:39:00.281Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7306 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=1qx8ertb74rs
+2025-08-10T09:39:30.924Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-03 request_id=dxvl5pvyiomk pool_wait_ms=20000
+2025-08-10T09:40:00.788Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=9263 cause=db_timeout request_id=v5s4tl0thhzy path=/api/checkout
+2025-08-10T09:40:30.646Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=18639 cause=db_timeout request_id=9gtwz1uu7zy6 path=/api/checkout
+2025-08-10T09:41:00.133Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=transactions app=app-02 request_id=afyh1fkj4yk1 pool_wait_ms=15000
+2025-08-10T09:41:30.665Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=transactions app=app-02 request_id=0ui22kx7n89l pool_wait_ms=20000
+2025-08-10T09:42:00.222Z [cache-01] [INFO] code=CACHE_MISS key=session:b0h54piw namespace=sessions request_id=znv0h0gq9c80
+2025-08-10T09:42:30.777Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-01 request_id=uevjlzfflb7w pool_wait_ms=30000
+2025-08-10T09:43:00.469Z [app-02] [INFO] path=/api/stations status=201 latency_ms=583 request_id=czs8s2ftom5x region=us-east
+2025-08-10T09:43:30.915Z [app-02] [WARN] code=NET_RETRY attempts=3 endpoint=db:5432 backoff_ms=1600 request_id=939ayq6ww8yl
+2025-08-10T09:44:00.271Z [web-01] [WARN] code=HIGH_CPU usage=96% process=app pid=5203 request_id=tk63n2qb6gs8
+2025-08-10T09:44:30.173Z [worker-02] [WARN] code=HIGH_CPU usage=98% process=app pid=1120 request_id=whwhy4h350p3
+2025-08-10T09:45:00.498Z [app-01] [INFO] path=/health status=404 latency_ms=177 request_id=qldb2uuijnwp region=eu-central
+2025-08-10T09:45:30.776Z [gw-01] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.3.32 sni=api.oillibya.local request_id=1vzc7d2kd1po
+2025-08-10T09:46:00.111Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5682 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=teo2t8fy620n
+2025-08-10T09:46:30.245Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=32% request_id=fbuotdh00h64
+2025-08-10T09:47:00.356Z [web-02] [WARN] code=HIGH_CPU usage=92% process=app pid=4617 request_id=wjeyub19txcy
+2025-08-10T09:47:30.326Z [cache-01] [INFO] code=CACHE_MISS key=session:d0rlexdw namespace=sessions request_id=6lqwlvunlpai
+2025-08-10T09:48:00.243Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-03 request_id=4e05qmktgv44 pool_wait_ms=30000
+2025-08-10T09:48:30.652Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=11312 cause=db_timeout request_id=5ccasbuov6tt path=/api/checkout
+2025-08-10T09:49:00.269Z [app-02] [WARN] code=AUTH_FAIL user=u3435 ip=192.168.187.200 reason=invalid_password request_id=i10kqsosx43w
+2025-08-10T09:49:30.140Z [cache-01] [INFO] code=CACHE_MISS key=session:1ffuu5f0 namespace=sessions request_id=7b1ijiys2n75
+2025-08-10T09:50:00.461Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-02 request_id=4jtgxnx4sn6s pool_wait_ms=30000
+2025-08-10T09:50:30.221Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=8908 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=rrvsffcxhgnz
+2025-08-10T09:51:00.686Z [app-03] [WARN] code=AUTH_FAIL user=u4773 ip=192.168.212.169 reason=invalid_password request_id=zrrhf4abufwb
+2025-08-10T09:51:30.988Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2258 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=jg8vuazxkdq9
+2025-08-10T09:52:00.494Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3197 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=3v23gxj0mqvi
+2025-08-10T09:52:30.775Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-01 request_id=s6y3vg6v5t1d pool_wait_ms=20000
+2025-08-10T09:53:00.200Z [db-01] [ERROR] code=POOL_EXHAUSTED size=83 waiting=37 msg="Connection pool exhausted" request_id=snbti22nv01z
+2025-08-10T09:53:30.310Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-01 request_id=16dvtja0assn pool_wait_ms=45000
+2025-08-10T09:54:00.283Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=13698 cause=db_timeout request_id=dpvjtuw9ohtu path=/api/checkout
+2025-08-10T09:54:30.904Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=transactions app=app-03 request_id=9u1oe5ei28ds pool_wait_ms=30000
+2025-08-10T09:55:00.510Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.26.82 sni=api.oillibya.local request_id=ow23qvdjnv07
+2025-08-10T09:55:30.273Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-03 request_id=83xphx2kbvsi pool_wait_ms=15000
+2025-08-10T09:56:00.843Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-01 request_id=x9djoyohaz7t pool_wait_ms=20000
+2025-08-10T09:56:30.219Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=33% request_id=m8jvh7ujodck
+2025-08-10T09:57:00.335Z [cache-01] [INFO] code=CACHE_MISS key=session:2853uy8u namespace=sessions request_id=118qqvaecw9y
+2025-08-10T09:57:30.375Z [db-02] [ERROR] code=POOL_EXHAUSTED size=130 waiting=32 msg="Connection pool exhausted" request_id=sa3idy3c7rm6
+2025-08-10T09:58:00.604Z [db-01] [ERROR] code=POOL_EXHAUSTED size=96 waiting=41 msg="Connection pool exhausted" request_id=0iiji44m2ec8
+2025-08-10T09:58:30.386Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=15% request_id=1tbrwr965r96
+2025-08-10T09:59:00.790Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-01 request_id=sp7bm41qesla pool_wait_ms=15000
+2025-08-10T09:59:30.974Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=4908 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=lwjtiqwnrhzn
+2025-08-10T10:00:00.925Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=11581 cause=db_timeout request_id=geuidjipnf8f path=/api/checkout
+2025-08-10T10:00:30.933Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3246 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=r94sz2kuuoyc
+2025-08-10T10:01:00.651Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-02 request_id=0jmu3momyvux pool_wait_ms=45000
+2025-08-10T10:01:30.685Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-02 request_id=yr06nkwfg3mw pool_wait_ms=30000
+2025-08-10T10:02:00.288Z [app-01] [INFO] path=/api/loyalty status=200 latency_ms=101 request_id=mlxzvo5270sq region=eu-central
+2025-08-10T10:02:30.185Z [db-01] [ERROR] code=POOL_EXHAUSTED size=55 waiting=25 msg="Connection pool exhausted" request_id=x7zcgdc5tao1
+2025-08-10T10:03:00.587Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=users app=app-02 request_id=x5likwe4bx4l pool_wait_ms=15000
+2025-08-10T10:03:30.332Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-03 request_id=e8tvq05pxt6r pool_wait_ms=45000
+2025-08-10T10:04:00.406Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2533 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=lofas1ektyr1
+2025-08-10T10:04:30.181Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=19548 cause=db_timeout request_id=2v2tg5pizx3h path=/api/checkout
+2025-08-10T10:05:00.732Z [db-01] [ERROR] code=POOL_EXHAUSTED size=158 waiting=43 msg="Connection pool exhausted" request_id=163yk03o4gkw
+2025-08-10T10:05:30.322Z [db-02] [ERROR] code=POOL_EXHAUSTED size=165 waiting=49 msg="Connection pool exhausted" request_id=rlf8a9kepada
+2025-08-10T10:06:00.889Z [cache-01] [INFO] code=CACHE_MISS key=session:ml29q2l4 namespace=sessions request_id=8c1cqg433e1i
+2025-08-10T10:06:30.359Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=sessions app=app-01 request_id=q1s9ryllwb7s pool_wait_ms=20000
+2025-08-10T10:07:00.902Z [app-01] [INFO] path=/api/loyalty status=404 latency_ms=325 request_id=mby9ipa2voi8 region=eu-west
+2025-08-10T10:07:30.599Z [app-03] [WARN] code=AUTH_FAIL user=u8786 ip=192.168.79.190 reason=invalid_password request_id=1irym81cmftd
+2025-08-10T10:08:00.431Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-02 request_id=0an0jbzutrut pool_wait_ms=45000
+2025-08-10T10:08:30.119Z [worker-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=23% request_id=5v4ftq3tq1s0
+2025-08-10T10:09:00.168Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=inventory app=app-02 request_id=zxtnsrtwlxds pool_wait_ms=30000
+2025-08-10T10:09:30.313Z [app-01] [WARN] code=AUTH_FAIL user=u3126 ip=192.168.91.16 reason=invalid_password request_id=hrdu4xszjnvc
+2025-08-10T10:10:00.321Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-02 request_id=2cu7onz3jbck pool_wait_ms=45000
+2025-08-10T10:10:30.781Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-01 request_id=tgsiwg0odwmq pool_wait_ms=20000
+2025-08-10T10:11:00.748Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2652 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=2tsxtv76t94o
+2025-08-10T10:11:30.409Z [app-02] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=400 request_id=uh17j8qo09vs
+2025-08-10T10:12:00.475Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-02 request_id=4a3yjtu7fbme pool_wait_ms=20000
+2025-08-10T10:12:30.889Z [cache-01] [INFO] code=CACHE_MISS key=session:6ijkuuhc namespace=sessions request_id=lrr6z3dxb3n2
+2025-08-10T10:13:00.253Z [app-02] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=1600 request_id=o55ixva1nkbt
+2025-08-10T10:13:30.150Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=transactions app=app-03 request_id=b0oqvshkoecu pool_wait_ms=20000
+2025-08-10T10:14:00.895Z [app-01] [INFO] path=/ status=201 latency_ms=288 request_id=opz1rhouu9si region=us-east
+2025-08-10T10:14:30.845Z [cache-01] [INFO] code=CACHE_MISS key=session:pyueongm namespace=sessions request_id=x1gm32wp7iyf
+2025-08-10T10:15:00.316Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2502 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=0iwf3km2kql0
+2025-08-10T10:15:30.576Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-03 request_id=w9zyn6sjchzj pool_wait_ms=45000
+2025-08-10T10:16:00.596Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-01 request_id=xx6mdk5n9sz6 pool_wait_ms=45000
+2025-08-10T10:16:30.740Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6691 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=gsq7aitmofmm
+2025-08-10T10:17:00.794Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=transactions app=app-01 request_id=w563btkf6xdn pool_wait_ms=15000
+2025-08-10T10:17:30.822Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=inventory app=app-03 request_id=if86lthet25l pool_wait_ms=45000
+2025-08-10T10:18:00.883Z [db-01] [ERROR] code=POOL_EXHAUSTED size=184 waiting=37 msg="Connection pool exhausted" request_id=99f77lu8el50
+2025-08-10T10:18:30.727Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.211.210 sni=api.oillibya.local request_id=k03w0fgea9wv
+2025-08-10T10:19:00.882Z [app-01] [WARN] code=AUTH_FAIL user=u4804 ip=192.168.118.13 reason=invalid_password request_id=myrsvzn4regb
+2025-08-10T10:19:30.860Z [cache-01] [INFO] code=CACHE_MISS key=session:878iyhhg namespace=sessions request_id=8pwy55p1v3zo
+2025-08-10T10:20:00.507Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-03 request_id=q3b9so0uswbk pool_wait_ms=15000
+2025-08-10T10:20:30.812Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=19675 cause=db_timeout request_id=qpwbsf3q0e27 path=/api/checkout
+2025-08-10T10:21:00.193Z [app-03] [WARN] code=AUTH_FAIL user=u3216 ip=192.168.201.211 reason=invalid_password request_id=laq665dlxzf0
+2025-08-10T10:21:30.266Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=users app=app-03 request_id=dz09wftbgm55 pool_wait_ms=30000
+2025-08-10T10:22:00.656Z [web-02] [WARN] code=HIGH_CPU usage=92% process=app pid=1840 request_id=pl1qweehwjq4
+2025-08-10T10:22:30.156Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=stations app=app-01 request_id=hxqpva5kw3hg pool_wait_ms=20000
+2025-08-10T10:23:00.906Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-02 request_id=4y4k7bpgyvyv pool_wait_ms=20000
+2025-08-10T10:23:30.437Z [app-03] [INFO] path=/ status=200 latency_ms=486 request_id=u7dknncptkez region=us-east
+2025-08-10T10:24:00.723Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=28% request_id=szwd0w9ry79k
+2025-08-10T10:24:30.524Z [cache-01] [INFO] code=CACHE_MISS key=session:4juw7wr0 namespace=sessions request_id=r35ikgeq20hw
+2025-08-10T10:25:00.841Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-01 request_id=uwahk2lslaym pool_wait_ms=30000
+2025-08-10T10:25:30.573Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6846 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=3g47rrbefq56
+2025-08-10T10:26:00.484Z [worker-01] [WARN] code=HIGH_CPU usage=90% process=app pid=9537 request_id=k0lthy25m8kb
+2025-08-10T10:26:30.637Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-03 request_id=ge2l4zjd5n3k pool_wait_ms=45000
+2025-08-10T10:27:00.435Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3233 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=nbhds26fmr5l
+2025-08-10T10:27:30.774Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-01 request_id=0qzsa7yvdqbs pool_wait_ms=20000
+2025-08-10T10:28:00.673Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=7368 cause=db_timeout request_id=1whhkt1yjfe8 path=/api/checkout
+2025-08-10T10:28:30.151Z [gw-01] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.105.179 sni=api.oillibya.local request_id=tj72ugl6tbb6
+2025-08-10T10:29:00.180Z [gw-01] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.196.27 sni=api.oillibya.local request_id=doz6wyqmlh13
+2025-08-10T10:29:30.364Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=8062 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=ud2zdlx1q8f6
+2025-08-10T10:30:00.230Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5011 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=zx25qbrmqg1v
+2025-08-10T10:30:30.448Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2643 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=32lx2toowt9n
+2025-08-10T10:31:00.433Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=18371 cause=db_timeout request_id=p9umygy0z4ev path=/api/checkout
+2025-08-10T10:31:30.873Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-01 request_id=lovyv3lxchfu pool_wait_ms=20000
+2025-08-10T10:32:00.452Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-01 request_id=qkwqh5k2y77z pool_wait_ms=20000
+2025-08-10T10:32:30.704Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=users app=app-03 request_id=44c68au9dkbp pool_wait_ms=45000
+2025-08-10T10:33:00.111Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-03 request_id=ophgft4mpk5e pool_wait_ms=45000
+2025-08-10T10:33:30.621Z [db-01] [ERROR] code=POOL_EXHAUSTED size=68 waiting=19 msg="Connection pool exhausted" request_id=zrp9dxoq2vpg
+2025-08-10T10:34:00.821Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-03 request_id=mgvu4isotn9u pool_wait_ms=45000
+2025-08-10T10:34:30.859Z [app-02] [WARN] code=GC_PAUSE duration_ms=315 heap_used_mb=1700 request_id=ryf0992qc6dr
+2025-08-10T10:35:00.711Z [db-02] [ERROR] code=POOL_EXHAUSTED size=69 waiting=49 msg="Connection pool exhausted" request_id=bm2qsq0p82kb
+2025-08-10T10:35:30.358Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=18910 cause=db_timeout request_id=jwuuxk0arec2 path=/api/checkout
+2025-08-10T10:36:00.982Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-03 request_id=4aegvfq3jzr2 pool_wait_ms=30000
+2025-08-10T10:36:30.370Z [app-01] [WARN] code=AUTH_FAIL user=u6617 ip=192.168.43.74 reason=invalid_password request_id=v341onx0gu4b
+2025-08-10T10:37:00.916Z [app-01] [WARN] code=NET_RETRY attempts=2 endpoint=db:5432 backoff_ms=400 request_id=qrr87iyojtpk
+2025-08-10T10:37:30.770Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4929 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=8yb7w8p74mjd
+2025-08-10T10:38:00.200Z [worker-02] [WARN] code=HIGH_CPU usage=96% process=app pid=8554 request_id=100vhmygty3a
+2025-08-10T10:38:30.188Z [db-01] [ERROR] code=POOL_EXHAUSTED size=184 waiting=38 msg="Connection pool exhausted" request_id=m0jbwcv6hve8
+2025-08-10T10:39:00.537Z [app-03] [WARN] code=NET_RETRY attempts=3 endpoint=db:5432 backoff_ms=1600 request_id=x6u86zjq7w7j
+2025-08-10T10:39:30.282Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-03 request_id=fc1nlc8jpr7v pool_wait_ms=30000
+2025-08-10T10:40:00.252Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5830 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=f1hx6zdcujq6
+2025-08-10T10:40:30.653Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=payments app=app-03 request_id=xjz6us7rp422 pool_wait_ms=15000
+2025-08-10T10:41:00.878Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-01 request_id=et9mkb9xn4m4 pool_wait_ms=45000
+2025-08-10T10:41:30.125Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.103.90 sni=api.oillibya.local request_id=t8xkodyr5pgb
+2025-08-10T10:42:00.926Z [app-03] [WARN] code=AUTH_FAIL user=u4907 ip=192.168.250.199 reason=invalid_password request_id=ctlt4q9bc2be
+2025-08-10T10:42:30.414Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-03 request_id=0ic0ra6wixaw pool_wait_ms=20000
+2025-08-10T10:43:00.432Z [app-01] [WARN] code=GC_PAUSE duration_ms=667 heap_used_mb=1763 request_id=gv3dr2h2p39y
+2025-08-10T10:43:30.141Z [db-01] [ERROR] code=POOL_EXHAUSTED size=80 waiting=30 msg="Connection pool exhausted" request_id=421vmefoztp7
+2025-08-10T10:44:00.755Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-01 request_id=aragdx5o31yh pool_wait_ms=20000
+2025-08-10T10:44:30.642Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-03 request_id=igyvzwd3kpug pool_wait_ms=45000
+2025-08-10T10:45:00.263Z [web-01] [WARN] code=HIGH_CPU usage=99% process=app pid=6929 request_id=59sqwhbef46r
+2025-08-10T10:45:30.218Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2153 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=xkpm21b07g2r
+2025-08-10T10:46:00.582Z [web-01] [WARN] code=HIGH_CPU usage=93% process=app pid=8287 request_id=vlhyl2ld05nh
+2025-08-10T10:46:30.213Z [app-02] [INFO] path=/ status=201 latency_ms=75 request_id=f7qnezw9heyc region=eu-central
+2025-08-10T10:47:00.634Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=5613 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=p1hkf286utio
+2025-08-10T10:47:30.141Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-01 request_id=k00ilu6vfua9 pool_wait_ms=45000
+2025-08-10T10:48:00.344Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7808 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=po3zdrc1yohm
+2025-08-10T10:48:30.575Z [app-03] [WARN] code=GC_PAUSE duration_ms=292 heap_used_mb=544 request_id=rkz40aq15o2n
+2025-08-10T10:49:00.156Z [db-01] [ERROR] code=POOL_EXHAUSTED size=50 waiting=34 msg="Connection pool exhausted" request_id=6lbpj8t22c50
+2025-08-10T10:49:30.589Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-03 request_id=dnwnguczh9ie pool_wait_ms=15000
+2025-08-10T10:50:00.399Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-03 request_id=l6spbnqs3qt3 pool_wait_ms=20000
+2025-08-10T10:50:30.742Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-03 request_id=g5dog8cfeffh pool_wait_ms=15000
+2025-08-10T10:51:00.771Z [app-03] [INFO] path=/api/login status=200 latency_ms=446 request_id=tempxkc5i8xo region=us-east
+2025-08-10T10:51:30.733Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-02 request_id=qu6l2ink4fk8 pool_wait_ms=45000
+2025-08-10T10:52:00.824Z [web-02] [WARN] code=HIGH_CPU usage=98% process=app pid=5673 request_id=ggz62fe9upnh
+2025-08-10T10:52:30.659Z [app-01] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=800 request_id=fq9tea7187f8
+2025-08-10T10:53:00.242Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4513 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=rk79ufu6py06
+2025-08-10T10:53:30.969Z [db-01] [ERROR] code=POOL_EXHAUSTED size=191 waiting=29 msg="Connection pool exhausted" request_id=awhmlvhs21hd
+2025-08-10T10:54:00.453Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7346 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=9orvscyozpna
+2025-08-10T10:54:30.701Z [web-03] [WARN] code=HIGH_CPU usage=94% process=app pid=8300 request_id=5d0p92k38p6f
+2025-08-10T10:55:00.681Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-01 request_id=k9sm7vnawjgq pool_wait_ms=20000
+2025-08-10T10:55:30.755Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2921 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=gntb34kuqaaj
+2025-08-10T10:56:00.592Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=7014 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=exkg6xb1r8vn
+2025-08-10T10:56:30.267Z [worker-02] [WARN] code=HIGH_CPU usage=96% process=app pid=5225 request_id=wryesu4fcl5e
+2025-08-10T10:57:00.423Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=users app=app-02 request_id=w8bkxcgw1vgl pool_wait_ms=45000
+2025-08-10T10:57:30.258Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-03 request_id=yydu3asnrm6d pool_wait_ms=30000
+2025-08-10T10:58:00.117Z [worker-02] [WARN] code=HIGH_CPU usage=93% process=app pid=4087 request_id=2uy84zz2p6ee
+2025-08-10T10:58:30.804Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.178.159 sni=api.oillibya.local request_id=yfp9s8gk0eey
+2025-08-10T10:59:00.221Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-02 request_id=ecy2c11bd2sc pool_wait_ms=20000
+2025-08-10T10:59:30.693Z [gw-02] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=7709 cause=db_timeout request_id=kadevvhybf0j path=/api/checkout
+2025-08-10T11:00:00.104Z [web-03] [WARN] code=HIGH_CPU usage=95% process=app pid=3630 request_id=42wsc31tz8g1
+2025-08-10T11:00:30.212Z [app-03] [WARN] code=AUTH_FAIL user=u2616 ip=192.168.109.243 reason=invalid_password request_id=nvp8gmnhie9e
+2025-08-10T11:01:00.397Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2913 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=1zublekvl9pt
+2025-08-10T11:01:30.811Z [db-01] [ERROR] code=POOL_EXHAUSTED size=159 waiting=14 msg="Connection pool exhausted" request_id=627nayyosyeo
+2025-08-10T11:02:00.920Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-01 request_id=nhh4oipr11v1 pool_wait_ms=15000
+2025-08-10T11:02:30.950Z [db-02] [ERROR] code=POOL_EXHAUSTED size=152 waiting=40 msg="Connection pool exhausted" request_id=y89sfqeri7b0
+2025-08-10T11:03:00.132Z [cache-01] [INFO] code=CACHE_MISS key=session:cy8nyfwd namespace=sessions request_id=c112hxrjm4t8
+2025-08-10T11:03:30.682Z [app-02] [INFO] path=/api/loyalty status=200 latency_ms=412 request_id=lnqbu4kzrezr region=eu-central
+2025-08-10T11:04:00.475Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-02 request_id=ufcjvny1kcve pool_wait_ms=45000
+2025-08-10T11:04:30.804Z [web-03] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=40% request_id=0a6mdmmmxixv
+2025-08-10T11:05:00.684Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=8918 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=egtbxpspaqal
+2025-08-10T11:05:30.906Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=4441 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=3dyms1mwnpr4
+2025-08-10T11:06:00.586Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8684 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=kb9oi0d4dmc2
+2025-08-10T11:06:30.119Z [worker-01] [WARN] code=HIGH_CPU usage=93% process=app pid=6690 request_id=2xk2pthowq1g
+2025-08-10T11:07:00.473Z [app-03] [WARN] code=NET_RETRY attempts=3 endpoint=db:5432 backoff_ms=1600 request_id=h80q7tw1puws
+2025-08-10T11:07:30.715Z [app-02] [WARN] code=GC_PAUSE duration_ms=351 heap_used_mb=1004 request_id=fykpl3cho3xj
+2025-08-10T11:08:00.922Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5124 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=egi3qupxbfej
+2025-08-10T11:08:30.959Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=transactions app=app-03 request_id=8ra4dv56onxd pool_wait_ms=15000
+2025-08-10T11:09:00.854Z [app-01] [INFO] path=/health status=200 latency_ms=261 request_id=usexu1srdv1l region=eu-west
+2025-08-10T11:09:30.352Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.120.216 sni=api.oillibya.local request_id=hdhjo5ctzetr
+2025-08-10T11:10:00.416Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-01 request_id=z3a8v4x7y2it pool_wait_ms=45000
+2025-08-10T11:10:30.404Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=7539 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=6ytipa877k71
+2025-08-10T11:11:00.939Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-01 request_id=51ob537qo4z5 pool_wait_ms=30000
+2025-08-10T11:11:30.103Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=9627 cause=db_timeout request_id=jcp0tlz1xgpx path=/api/checkout
+2025-08-10T11:12:00.236Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-01 request_id=udiz1xevo7q5 pool_wait_ms=30000
+2025-08-10T11:12:30.191Z [web-03] [WARN] code=HIGH_CPU usage=92% process=app pid=6367 request_id=2hog585i87xw
+2025-08-10T11:13:00.900Z [cache-01] [INFO] code=CACHE_MISS key=session:9hzgopjd namespace=sessions request_id=n8ezp7qyezg5
+2025-08-10T11:13:30.561Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4158 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=nphh30gg2b9i
+2025-08-10T11:14:00.340Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-02 request_id=aelyyzz0jdcl pool_wait_ms=15000
+2025-08-10T11:14:30.191Z [app-01] [INFO] path=/api/loyalty status=200 latency_ms=66 request_id=jwkon8uujs75 region=eu-central
+2025-08-10T11:15:00.629Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=transactions app=app-03 request_id=jl9r9kmp6j37 pool_wait_ms=20000
+2025-08-10T11:15:30.822Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5369 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=l91f4x2bfibj
+2025-08-10T11:16:00.284Z [db-02] [ERROR] code=POOL_EXHAUSTED size=169 waiting=17 msg="Connection pool exhausted" request_id=97bmzrr45ed5
+2025-08-10T11:16:30.503Z [app-01] [WARN] code=AUTH_FAIL user=u9335 ip=192.168.139.108 reason=invalid_password request_id=v8suoc1y5ayy
+2025-08-10T11:17:00.851Z [app-02] [WARN] code=AUTH_FAIL user=u2737 ip=192.168.165.78 reason=invalid_password request_id=bqzrwjxlbwq8
+2025-08-10T11:17:30.121Z [app-03] [WARN] code=GC_PAUSE duration_ms=332 heap_used_mb=944 request_id=52k20tvdji1o
+2025-08-10T11:18:00.198Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3505 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=nox8fk2076vm
+2025-08-10T11:18:30.574Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=4810 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=r5rup13wppbm
+2025-08-10T11:19:00.354Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=17610 cause=db_timeout request_id=z7sxdqc2k9yk path=/api/checkout
+2025-08-10T11:19:30.116Z [db-02] [ERROR] code=POOL_EXHAUSTED size=183 waiting=28 msg="Connection pool exhausted" request_id=ut7ssoqz3mv1
+2025-08-10T11:20:00.929Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-03 request_id=24bozl01q3m7 pool_wait_ms=20000
+2025-08-10T11:20:30.716Z [app-01] [WARN] code=AUTH_FAIL user=u4458 ip=192.168.94.40 reason=invalid_password request_id=0v5dtaegry58
+2025-08-10T11:21:00.248Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.155.184 sni=api.oillibya.local request_id=y8y2deg3zgar
+2025-08-10T11:21:30.120Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3780 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=44td1fpe60qr
+2025-08-10T11:22:00.397Z [worker-01] [WARN] code=HIGH_CPU usage=99% process=app pid=4975 request_id=hu4bawz940vt
+2025-08-10T11:22:30.527Z [app-01] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=1600 request_id=rvwy3rztplc6
+2025-08-10T11:23:00.579Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-01 request_id=qpf0qpsvy74z pool_wait_ms=30000
+2025-08-10T11:23:30.720Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-02 request_id=3y0224wk0yeh pool_wait_ms=45000
+2025-08-10T11:24:00.732Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-01 request_id=khba5mf36bcp pool_wait_ms=45000
+2025-08-10T11:24:30.548Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=8977 cause=db_timeout request_id=ijmmb5jfysyz path=/api/checkout
+2025-08-10T11:25:00.880Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=stations app=app-02 request_id=2v4dusgehn0z pool_wait_ms=15000
+2025-08-10T11:25:30.372Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5882 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=fn3eh81a4rkg
+2025-08-10T11:26:00.553Z [app-02] [INFO] path=/api/stations status=404 latency_ms=444 request_id=wi1t2ep768sy region=eu-central
+2025-08-10T11:26:30.830Z [web-02] [WARN] code=HIGH_CPU usage=90% process=app pid=9476 request_id=7dl9fc1xx6cw
+2025-08-10T11:27:00.657Z [app-02] [INFO] path=/health status=204 latency_ms=322 request_id=oytk06akt7zq region=eu-central
+2025-08-10T11:27:30.448Z [db-02] [ERROR] code=POOL_EXHAUSTED size=163 waiting=35 msg="Connection pool exhausted" request_id=15dtoz5sthsl
+2025-08-10T11:28:00.874Z [web-02] [WARN] code=HIGH_CPU usage=90% process=app pid=1456 request_id=6tj3kps04jse
+2025-08-10T11:28:30.782Z [web-01] [WARN] code=HIGH_CPU usage=97% process=app pid=5881 request_id=uami0uz7x4ik
+2025-08-10T11:29:00.587Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=18703 cause=db_timeout request_id=silu3ndz3cc5 path=/api/checkout
+2025-08-10T11:29:30.943Z [app-01] [WARN] code=GC_PAUSE duration_ms=656 heap_used_mb=671 request_id=nsvsojrpp7r9
+2025-08-10T11:30:00.972Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2982 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=rq8stzqbfu7e
+2025-08-10T11:30:30.412Z [db-01] [ERROR] code=POOL_EXHAUSTED size=154 waiting=17 msg="Connection pool exhausted" request_id=nkseknkbf2p7
+2025-08-10T11:31:00.987Z [cache-01] [INFO] code=CACHE_MISS key=session:6h3rem5p namespace=sessions request_id=uu62rzv1sqqq
+2025-08-10T11:31:30.416Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-02 request_id=n6mbypjdfaw1 pool_wait_ms=45000
+2025-08-10T11:32:00.905Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-03 request_id=gwubugr6e7ga pool_wait_ms=15000
+2025-08-10T11:32:30.201Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-01 request_id=3vob5apo4lje pool_wait_ms=15000
+2025-08-10T11:33:00.431Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-01 request_id=g1f8yc8gzkdf pool_wait_ms=20000
+2025-08-10T11:33:30.339Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=transactions app=app-02 request_id=h1vr1necqoro pool_wait_ms=15000
+2025-08-10T11:34:00.650Z [app-03] [INFO] path=/api/login status=200 latency_ms=587 request_id=yit2kodwh8n9 region=eu-central
+2025-08-10T11:34:30.317Z [app-02] [WARN] code=AUTH_FAIL user=u8401 ip=192.168.21.0 reason=invalid_password request_id=38wxgc7jjy94
+2025-08-10T11:35:00.351Z [cache-01] [INFO] code=CACHE_MISS key=session:vsb0ukoe namespace=sessions request_id=fukpv8lymj1q
+2025-08-10T11:35:30.880Z [app-03] [WARN] code=AUTH_FAIL user=u6269 ip=192.168.174.107 reason=invalid_password request_id=qvayxar6yo6z
+2025-08-10T11:36:00.227Z [app-02] [WARN] code=AUTH_FAIL user=u9816 ip=192.168.41.39 reason=invalid_password request_id=t63qe8nvn439
+2025-08-10T11:36:30.137Z [app-02] [WARN] code=AUTH_FAIL user=u7069 ip=192.168.98.227 reason=invalid_password request_id=a01yzg3w3h98
+2025-08-10T11:37:00.231Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=transactions app=app-02 request_id=h3o5urtxuyuc pool_wait_ms=15000
+2025-08-10T11:37:30.964Z [cache-01] [INFO] code=CACHE_MISS key=session:0e7450j4 namespace=sessions request_id=a8ywy5apyx4l
+2025-08-10T11:38:00.685Z [db-02] [ERROR] code=POOL_EXHAUSTED size=154 waiting=17 msg="Connection pool exhausted" request_id=yqn15ikpqahc
+2025-08-10T11:38:30.353Z [web-01] [WARN] code=HIGH_CPU usage=93% process=app pid=7943 request_id=87hlcwbpa274
+2025-08-10T11:39:00.486Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=users app=app-02 request_id=33sicvpdqe97 pool_wait_ms=30000
+2025-08-10T11:39:30.914Z [cache-01] [INFO] code=CACHE_MISS key=session:l4ce7pkw namespace=sessions request_id=cyuknd1ivxan
+2025-08-10T11:40:00.621Z [db-01] [ERROR] code=POOL_EXHAUSTED size=159 waiting=31 msg="Connection pool exhausted" request_id=xyasvdazv46e
+2025-08-10T11:40:30.794Z [cache-01] [INFO] code=CACHE_MISS key=session:jp0qi2cl namespace=sessions request_id=p81l51flmnav
+2025-08-10T11:41:00.714Z [web-02] [WARN] code=HIGH_CPU usage=90% process=app pid=4889 request_id=s44phh62myz9
+2025-08-10T11:41:30.886Z [app-02] [INFO] path=/health status=200 latency_ms=599 request_id=wpfq2bhaiiwi region=eu-west
+2025-08-10T11:42:00.302Z [app-01] [INFO] path=/api/stations status=404 latency_ms=404 request_id=o3aamtfpw6m9 region=eu-central
+2025-08-10T11:42:30.412Z [app-02] [INFO] path=/api/stations status=200 latency_ms=244 request_id=zmtga46ayn2d region=eu-central
+2025-08-10T11:43:00.487Z [app-02] [WARN] code=GC_PAUSE duration_ms=445 heap_used_mb=1269 request_id=3x79955cf72g
+2025-08-10T11:43:30.971Z [web-03] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=25% request_id=v9ibwgt2lb25
+2025-08-10T11:44:00.753Z [cache-01] [INFO] code=CACHE_MISS key=session:svr022wg namespace=sessions request_id=n51nsgzsr8ru
+2025-08-10T11:44:30.402Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6583 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=h6qihpnf4jd1
+2025-08-10T11:45:00.467Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=sessions app=app-03 request_id=vqwpqo2lngix pool_wait_ms=20000
+2025-08-10T11:45:30.799Z [gw-01] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=11825 cause=db_timeout request_id=sx27dcbhhlk3 path=/api/checkout
+2025-08-10T11:46:00.507Z [app-02] [WARN] code=AUTH_FAIL user=u4123 ip=192.168.70.133 reason=invalid_password request_id=ak32oouxqs1f
+2025-08-10T11:46:30.560Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3658 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=rs210q2lg1zh
+2025-08-10T11:47:00.438Z [cache-01] [INFO] code=CACHE_MISS key=session:4bf5l0rx namespace=sessions request_id=mip11ykvubf9
+2025-08-10T11:47:30.275Z [app-03] [WARN] code=GC_PAUSE duration_ms=844 heap_used_mb=1746 request_id=6uon8cnrl8xk
+2025-08-10T11:48:00.111Z [app-01] [WARN] code=GC_PAUSE duration_ms=891 heap_used_mb=1644 request_id=g3vah6nhksqn
+2025-08-10T11:48:30.262Z [app-01] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=1600 request_id=o9ep0o6h5l3x
+2025-08-10T11:49:00.571Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6511 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=vsyjafco3s65
+2025-08-10T11:49:30.568Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.20.46 sni=api.oillibya.local request_id=k5qzzkw3gi60
+2025-08-10T11:50:00.616Z [cache-01] [INFO] code=CACHE_MISS key=session:nxzdzb5f namespace=sessions request_id=5txc066o1en1
+2025-08-10T11:50:30.826Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=stations app=app-02 request_id=fhbawyqmogbj pool_wait_ms=45000
+2025-08-10T11:51:00.500Z [app-02] [INFO] path=/api/orders status=200 latency_ms=495 request_id=qcxzpqkf4vge region=eu-west
+2025-08-10T11:51:30.499Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-01 request_id=fmhbyhz43xz6 pool_wait_ms=30000
+2025-08-10T11:52:00.164Z [gw-02] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=14274 cause=db_timeout request_id=vbnhi6haba3y path=/api/checkout
+2025-08-10T11:52:30.431Z [db-01] [ERROR] code=POOL_EXHAUSTED size=106 waiting=20 msg="Connection pool exhausted" request_id=0bs3lww7opid
+2025-08-10T11:53:00.829Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-01 request_id=ahhxkwb5o1r9 pool_wait_ms=30000
+2025-08-10T11:53:30.782Z [worker-02] [WARN] code=HIGH_CPU usage=99% process=app pid=3809 request_id=jdlwn71eg1y9
+2025-08-10T11:54:00.538Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2353 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=a6qs0szaa1ei
+2025-08-10T11:54:30.905Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=stations app=app-01 request_id=erhnxi09p5el pool_wait_ms=15000
+2025-08-10T11:55:00.633Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-01 request_id=1i0mhb792zi5 pool_wait_ms=30000
+2025-08-10T11:55:30.619Z [web-03] [WARN] code=HIGH_CPU usage=92% process=app pid=8247 request_id=wcr8b97egt2h
+2025-08-10T11:56:00.507Z [web-01] [WARN] code=HIGH_CPU usage=96% process=app pid=8652 request_id=lzigikqwj2c9
+2025-08-10T11:56:30.844Z [app-02] [INFO] path=/api/loyalty status=200 latency_ms=502 request_id=pvpf8r1pc6kt region=eu-west
+2025-08-10T11:57:00.525Z [app-02] [INFO] path=/api/orders status=200 latency_ms=409 request_id=lkurlzh6a50n region=us-east
+2025-08-10T11:57:30.839Z [app-02] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=1600 request_id=rxvob7nugpj6
+2025-08-10T11:58:00.760Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=15349 cause=db_timeout request_id=ryzx70ib3wyz path=/api/checkout
+2025-08-10T11:58:30.182Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3940 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=7fiuxfedznz9
+2025-08-10T11:59:00.686Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3346 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=fpyst5v0175d
+2025-08-10T11:59:30.483Z [app-02] [WARN] code=AUTH_FAIL user=u3338 ip=192.168.137.107 reason=invalid_password request_id=7ol93aczsx0g
+2025-08-10T12:00:00.739Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-03 request_id=rsduhh03g95p pool_wait_ms=20000
+2025-08-10T12:00:30.199Z [app-01] [INFO] path=/api/login status=404 latency_ms=190 request_id=knjmvrydc1au region=eu-central
+2025-08-10T12:01:00.469Z [web-02] [WARN] code=HIGH_CPU usage=98% process=app pid=1118 request_id=ns8jr1vmymli
+2025-08-10T12:01:30.869Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=payments app=app-02 request_id=953a5o47aet8 pool_wait_ms=15000
+2025-08-10T12:02:00.433Z [app-01] [WARN] code=GC_PAUSE duration_ms=577 heap_used_mb=1437 request_id=wxrog983amb3
+2025-08-10T12:02:30.246Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-02 request_id=owcp779460kh pool_wait_ms=45000
+2025-08-10T12:03:00.871Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6060 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=e2kyt5gqexih
+2025-08-10T12:03:30.748Z [db-01] [ERROR] code=POOL_EXHAUSTED size=72 waiting=37 msg="Connection pool exhausted" request_id=9b7lnkzx8yx7
+2025-08-10T12:04:00.858Z [cache-01] [INFO] code=CACHE_MISS key=session:0dy571vx namespace=sessions request_id=nz0nxu43iedd
+2025-08-10T12:04:30.915Z [db-01] [ERROR] code=POOL_EXHAUSTED size=98 waiting=46 msg="Connection pool exhausted" request_id=n48uact49lny
+2025-08-10T12:05:00.819Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-03 request_id=otqf74rqvfx2 pool_wait_ms=15000
+2025-08-10T12:05:30.947Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6706 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=l9e9zr3rzn9l
+2025-08-10T12:06:00.794Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=3525 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=zb5gro9x49tm
+2025-08-10T12:06:30.826Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4653 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=otkzh4oe1u24
+2025-08-10T12:07:00.979Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=14496 cause=db_timeout request_id=fezkfh00a0uy path=/api/checkout
+2025-08-10T12:07:30.350Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=13169 cause=db_timeout request_id=ygcmr8esmpf0 path=/api/checkout
+2025-08-10T12:08:00.747Z [app-01] [WARN] code=GC_PAUSE duration_ms=321 heap_used_mb=1005 request_id=okvg019ydq3n
+2025-08-10T12:08:30.595Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.188.5 sni=api.oillibya.local request_id=ecrysauuj02g
+2025-08-10T12:09:00.698Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.152.64 sni=api.oillibya.local request_id=dc62g3aut3rs
+2025-08-10T12:09:30.971Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-03 request_id=86gvgt2eehfu pool_wait_ms=20000
+2025-08-10T12:10:00.555Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2086 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=9sntp8ak8s2x
+2025-08-10T12:10:30.237Z [web-02] [WARN] code=HIGH_CPU usage=99% process=app pid=9035 request_id=zs9mthd3igk3
+2025-08-10T12:11:00.246Z [app-03] [WARN] code=GC_PAUSE duration_ms=765 heap_used_mb=954 request_id=vj0ptjxfq8y7
+2025-08-10T12:11:30.718Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=inventory app=app-01 request_id=9zgnx3vpf9pa pool_wait_ms=30000
+2025-08-10T12:12:00.327Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=2435 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=edtcxnmj5ian
+2025-08-10T12:12:30.869Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=sessions app=app-01 request_id=s5v3dmukjdbl pool_wait_ms=20000
+2025-08-10T12:13:00.355Z [app-02] [WARN] code=AUTH_FAIL user=u3960 ip=192.168.176.206 reason=invalid_password request_id=reasfen0b09z
+2025-08-10T12:13:30.516Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=18579 cause=db_timeout request_id=g92sjp753k48 path=/api/checkout
+2025-08-10T12:14:00.239Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=stations app=app-02 request_id=cidudk73a8y7 pool_wait_ms=15000
+2025-08-10T12:14:30.777Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=15156 cause=db_timeout request_id=yyteag3aptm9 path=/api/checkout
+2025-08-10T12:15:00.215Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=stations app=app-03 request_id=8y5sic4s8pnn pool_wait_ms=45000
+2025-08-10T12:15:30.732Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.127.60 sni=api.oillibya.local request_id=krjawo778s67
+2025-08-10T12:16:00.520Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=stations app=app-02 request_id=aqkdm0oapht6 pool_wait_ms=30000
+2025-08-10T12:16:30.865Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=users app=app-02 request_id=1jqnn6tj9xpf pool_wait_ms=20000
+2025-08-10T12:17:00.607Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=sessions app=app-01 request_id=dkeplbx889er pool_wait_ms=20000
+2025-08-10T12:17:30.342Z [app-02] [INFO] path=/health status=404 latency_ms=150 request_id=12o003e82ema region=eu-west
+2025-08-10T12:18:00.369Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=7356 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=pvarkcpw0gke
+2025-08-10T12:18:30.296Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-01 request_id=r2d0vg4wfeoj pool_wait_ms=20000
+2025-08-10T12:19:00.375Z [web-02] [WARN] code=HIGH_CPU usage=96% process=app pid=1289 request_id=wdbolwimrsxk
+2025-08-10T12:19:30.603Z [app-02] [WARN] code=GC_PAUSE duration_ms=487 heap_used_mb=1230 request_id=zi6gaxlkkvpj
+2025-08-10T12:20:00.698Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4538 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=eyy1em30vvij
+2025-08-10T12:20:30.842Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2514 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=e0ev6xgz7ctm
+2025-08-10T12:21:00.594Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-01 request_id=epz614umnwep pool_wait_ms=15000
+2025-08-10T12:21:30.625Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=15581 cause=db_timeout request_id=2gj8k8c9g3rt path=/api/checkout
+2025-08-10T12:22:00.824Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=9711 cause=db_timeout request_id=1n2ojgfhz52q path=/api/checkout
+2025-08-10T12:22:30.909Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=23% request_id=khztgbibf57j
+2025-08-10T12:23:00.740Z [app-01] [INFO] path=/api/login status=404 latency_ms=274 request_id=tamvncztzowl region=eu-central
+2025-08-10T12:23:30.990Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=1885 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=h8g8t922d0nx
+2025-08-10T12:24:00.285Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6996 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=3hju31fi0n6d
+2025-08-10T12:24:30.760Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.94.90 sni=api.oillibya.local request_id=gr0xafgovcci
+2025-08-10T12:25:00.742Z [db-01] [ERROR] code=POOL_EXHAUSTED size=153 waiting=43 msg="Connection pool exhausted" request_id=e1adnda37e1j
+2025-08-10T12:25:30.157Z [app-03] [WARN] code=GC_PAUSE duration_ms=213 heap_used_mb=531 request_id=8d0mzhrupflf
+2025-08-10T12:26:00.800Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-03 request_id=abtd5oaiinmk pool_wait_ms=15000
+2025-08-10T12:26:30.783Z [cache-01] [INFO] code=CACHE_MISS key=session:n53egdd8 namespace=sessions request_id=mwe776vgtvyf
+2025-08-10T12:27:00.251Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=payments app=app-02 request_id=5jrnj622592f pool_wait_ms=30000
+2025-08-10T12:27:30.751Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-02 request_id=ep0fle1mrr9v pool_wait_ms=15000
+2025-08-10T12:28:00.340Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-01 request_id=prtt3nupuy0z pool_wait_ms=45000
+2025-08-10T12:28:30.220Z [cache-01] [INFO] code=CACHE_MISS key=session:nh4nred6 namespace=sessions request_id=m42fq4t7phi0
+2025-08-10T12:29:00.112Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-03 request_id=0zpbdurvfffi pool_wait_ms=45000
+2025-08-10T12:29:30.869Z [app-01] [INFO] path=/ status=201 latency_ms=173 request_id=qfs8q0pxaecx region=eu-west
+2025-08-10T12:30:00.634Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5922 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=a3y5t37szpf9
+2025-08-10T12:30:30.922Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-01 request_id=whg0u43qlx3f pool_wait_ms=45000
+2025-08-10T12:31:00.664Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=7097 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=hdcv4bktcv1l
+2025-08-10T12:31:30.612Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7029 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=idub9rbdl918
+2025-08-10T12:32:00.972Z [web-02] [WARN] code=HIGH_CPU usage=95% process=app pid=7400 request_id=09zdo0d3fvnv
+2025-08-10T12:32:30.846Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=24% request_id=fycw8ihyfz9s
+2025-08-10T12:33:00.742Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=inventory app=app-03 request_id=2mm4p61nhvcf pool_wait_ms=45000
+2025-08-10T12:33:30.881Z [cache-01] [INFO] code=CACHE_MISS key=session:9da1l526 namespace=sessions request_id=rqgkcumczq99
+2025-08-10T12:34:00.523Z [worker-01] [WARN] code=HIGH_CPU usage=92% process=app pid=3031 request_id=8rnkowypswld
+2025-08-10T12:34:30.573Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-02 request_id=wx0i3a4kfocn pool_wait_ms=15000
+2025-08-10T12:35:00.718Z [app-03] [WARN] code=AUTH_FAIL user=u2531 ip=192.168.178.238 reason=invalid_password request_id=qt3dgd8opocm
+2025-08-10T12:35:30.584Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-01 request_id=kbfqxlbvn7np pool_wait_ms=15000
+2025-08-10T12:36:00.785Z [web-02] [WARN] code=HIGH_CPU usage=90% process=app pid=4465 request_id=58yjwdcokz5s
+2025-08-10T12:36:30.809Z [app-02] [WARN] code=GC_PAUSE duration_ms=388 heap_used_mb=622 request_id=d6m1fmpryfzm
+2025-08-10T12:37:00.251Z [app-03] [INFO] path=/ status=201 latency_ms=30 request_id=2vcywl9700lf region=us-east
+2025-08-10T12:37:30.892Z [app-03] [INFO] path=/api/loyalty status=200 latency_ms=136 request_id=osaq3eq8dh9p region=eu-west
+2025-08-10T12:38:00.566Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6722 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=hhgy8nnkl3er
+2025-08-10T12:38:30.796Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-02 request_id=3p9m7qntfpkx pool_wait_ms=30000
+2025-08-10T12:39:00.396Z [app-02] [WARN] code=AUTH_FAIL user=u5640 ip=192.168.50.44 reason=invalid_password request_id=3dxwor17dpub
+2025-08-10T12:39:30.483Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=stations app=app-02 request_id=1te48m2q6x2o pool_wait_ms=20000
+2025-08-10T12:40:00.669Z [cache-01] [INFO] code=CACHE_MISS key=session:2sjxl66y namespace=sessions request_id=a6ba24s0lgup
+2025-08-10T12:40:30.920Z [app-02] [WARN] code=GC_PAUSE duration_ms=397 heap_used_mb=1774 request_id=x32uew9g6spd
+2025-08-10T12:41:00.180Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-03 request_id=4wjt8hdpwvbz pool_wait_ms=45000
+2025-08-10T12:41:30.888Z [app-03] [WARN] code=NET_RETRY attempts=5 endpoint=db:5432 backoff_ms=200 request_id=0eqwmi6kti22
+2025-08-10T12:42:00.964Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=transactions app=app-03 request_id=cfa95d7efjgc pool_wait_ms=30000
+2025-08-10T12:42:30.282Z [gw-02] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=10407 cause=db_timeout request_id=d2orwhp6wqfk path=/api/checkout
+2025-08-10T12:43:00.321Z [app-01] [INFO] path=/health status=204 latency_ms=52 request_id=99rwtf07gbas region=eu-central
+2025-08-10T12:43:30.509Z [app-01] [INFO] path=/api/stations status=200 latency_ms=242 request_id=lh07jr8mtk0r region=eu-west
+2025-08-10T12:44:00.378Z [app-01] [INFO] path=/api/orders status=200 latency_ms=197 request_id=y5kov1l28r5p region=eu-west
+2025-08-10T12:44:30.643Z [app-02] [WARN] code=NET_RETRY attempts=2 endpoint=db:5432 backoff_ms=1600 request_id=punwcgbsvk3x
+2025-08-10T12:45:00.681Z [app-01] [INFO] path=/api/stations status=201 latency_ms=50 request_id=gl2mcxn2elal region=us-east
+2025-08-10T12:45:30.425Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=stations app=app-02 request_id=nvsdkv54c6p1 pool_wait_ms=15000
+2025-08-10T12:46:00.689Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=stations app=app-02 request_id=brbjeqvviaa2 pool_wait_ms=20000
+2025-08-10T12:46:30.871Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=29% request_id=k4o67bxcd20j
+2025-08-10T12:47:00.148Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5079 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=ulwozq48enwb
+2025-08-10T12:47:30.144Z [app-01] [WARN] code=AUTH_FAIL user=u3273 ip=192.168.53.165 reason=invalid_password request_id=50id033tayb5
+2025-08-10T12:48:00.523Z [gw-01] [ERROR] code=HTTP_500 upstream=app-02 duration_ms=7786 cause=db_timeout request_id=clw3jgeqe515 path=/api/checkout
+2025-08-10T12:48:30.775Z [db-01] [ERROR] code=POOL_EXHAUSTED size=164 waiting=43 msg="Connection pool exhausted" request_id=sux9l0ijkcu5
+2025-08-10T12:49:00.419Z [db-01] [ERROR] code=POOL_EXHAUSTED size=102 waiting=14 msg="Connection pool exhausted" request_id=8cah3gdhvs41
+2025-08-10T12:49:30.763Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=payments app=app-02 request_id=6hn95s2gkfl5 pool_wait_ms=15000
+2025-08-10T12:50:00.541Z [app-01] [INFO] path=/api/login status=200 latency_ms=492 request_id=0i6gbxqj7dpf region=eu-west
+2025-08-10T12:50:30.354Z [app-02] [INFO] path=/ status=200 latency_ms=74 request_id=jdx0pkovtrpy region=eu-west
+2025-08-10T12:51:00.607Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=users app=app-01 request_id=6uitj5zooh3y pool_wait_ms=15000
+2025-08-10T12:51:30.270Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=orders app=app-01 request_id=wzkag6w04ygy pool_wait_ms=30000
+2025-08-10T12:52:00.994Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=orders app=app-02 request_id=8xpa95g1amra pool_wait_ms=20000
+2025-08-10T12:52:30.658Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-02 request_id=3u94sgfdk0q0 pool_wait_ms=15000
+2025-08-10T12:53:00.350Z [cache-01] [INFO] code=CACHE_MISS key=session:jrnamz61 namespace=sessions request_id=46vey0a94xfr
+2025-08-10T12:53:30.795Z [app-03] [WARN] code=AUTH_FAIL user=u8056 ip=192.168.184.105 reason=invalid_password request_id=0g8w85y6q8sj
+2025-08-10T12:54:00.108Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-02 request_id=8jguz4e2u2md pool_wait_ms=45000
+2025-08-10T12:54:30.600Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.75.238 sni=api.oillibya.local request_id=yskufrckqh3e
+2025-08-10T12:55:00.850Z [app-02] [WARN] code=NET_RETRY attempts=2 endpoint=db:5432 backoff_ms=1600 request_id=m4be52s8u8zf
+2025-08-10T12:55:30.277Z [db-02] [ERROR] code=POOL_EXHAUSTED size=100 waiting=47 msg="Connection pool exhausted" request_id=7kb7iyno667v
+2025-08-10T12:56:00.953Z [db-02] [ERROR] code=POOL_EXHAUSTED size=194 waiting=30 msg="Connection pool exhausted" request_id=2f1johkk7qg2
+2025-08-10T12:56:30.190Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2586 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=sysymmq8q6a1
+2025-08-10T12:57:00.881Z [web-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=34% request_id=62unw65b4eyq
+2025-08-10T12:57:30.818Z [app-01] [INFO] path=/ status=201 latency_ms=75 request_id=b3xmdkrlc0y0 region=eu-central
+2025-08-10T12:58:00.168Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6029 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=u8e6xfwz73wh
+2025-08-10T12:58:30.797Z [app-03] [INFO] path=/api/login status=200 latency_ms=143 request_id=dhr3pceo934t region=eu-west
+2025-08-10T12:59:00.604Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8839 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=pwg3xg0trky8
+2025-08-10T12:59:30.555Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-03 request_id=n2q3fkeoubxx pool_wait_ms=45000
+2025-08-10T13:00:00.460Z [gw-01] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=12811 cause=db_timeout request_id=q0j9m4smzocx path=/api/checkout
+2025-08-10T13:00:30.619Z [db-02] [ERROR] code=POOL_EXHAUSTED size=194 waiting=39 msg="Connection pool exhausted" request_id=z2k1ko6xnqxu
+2025-08-10T13:01:00.278Z [cache-01] [INFO] code=CACHE_MISS key=session:1sel8mwo namespace=sessions request_id=b4fdd7r1930i
+2025-08-10T13:01:30.236Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4946 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=7cjb0pnwbgdq
+2025-08-10T13:02:00.134Z [worker-02] [WARN] code=HIGH_CPU usage=98% process=app pid=4272 request_id=hryi0pt2da8d
+2025-08-10T13:02:30.460Z [app-01] [WARN] code=GC_PAUSE duration_ms=1114 heap_used_mb=522 request_id=motcg06xr3ur
+2025-08-10T13:03:00.941Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=6866 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=2pw5uesdrbta
+2025-08-10T13:03:30.582Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=transactions app=app-02 request_id=c58cu47soczd pool_wait_ms=30000
+2025-08-10T13:04:00.924Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7151 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=bph5ch3l16cr
+2025-08-10T13:04:30.541Z [db-01] [ERROR] code=POOL_EXHAUSTED size=194 waiting=32 msg="Connection pool exhausted" request_id=98vwct8jbbsx
+2025-08-10T13:05:00.540Z [worker-01] [WARN] code=HIGH_CPU usage=94% process=app pid=4731 request_id=ab13t4y0tb1z
+2025-08-10T13:05:30.681Z [app-01] [INFO] path=/health status=201 latency_ms=582 request_id=eew6mm7idao1 region=eu-west
+2025-08-10T13:06:00.773Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8368 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=5iccpklv69eo
+2025-08-10T13:06:30.639Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=users app=app-03 request_id=jtr0m6hz72kx pool_wait_ms=15000
+2025-08-10T13:07:00.481Z [web-03] [WARN] code=HIGH_CPU usage=95% process=app pid=9870 request_id=sb6zwkhe9i0h
+2025-08-10T13:07:30.975Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8487 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=bip18a4jvk8c
+2025-08-10T13:08:00.723Z [worker-02] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=27% request_id=r5nbhgpbktma
+2025-08-10T13:08:30.838Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=4554 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=3v1m3pp00cdn
+2025-08-10T13:09:00.355Z [web-03] [WARN] code=HIGH_CPU usage=98% process=app pid=8594 request_id=pz1j8q9i6kyj
+2025-08-10T13:09:30.573Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=12530 cause=db_timeout request_id=ownx23veuljg path=/api/checkout
+2025-08-10T13:10:00.905Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=users app=app-02 request_id=bmwuouc6t8pj pool_wait_ms=45000
+2025-08-10T13:10:30.365Z [app-01] [INFO] path=/api/stations status=200 latency_ms=526 request_id=ig5xixgsplti region=eu-west
+2025-08-10T13:11:00.246Z [app-02] [WARN] code=AUTH_FAIL user=u1264 ip=192.168.180.22 reason=invalid_password request_id=vmcpsiln3ox5
+2025-08-10T13:11:30.420Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=users app=app-02 request_id=96n7kbnkfvdh pool_wait_ms=30000
+2025-08-10T13:12:00.851Z [app-03] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=400 request_id=nuxf1x889u9w
+2025-08-10T13:12:30.218Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=sessions app=app-03 request_id=vxslhu6l29il pool_wait_ms=15000
+2025-08-10T13:13:00.228Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3774 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=05nms6xvqpu3
+2025-08-10T13:13:30.284Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3806 table=inventory query="SELECT * FROM inventory WHERE created_at > NOW()-interval '1 day'" request_id=yxv2meosfr5h
+2025-08-10T13:14:00.497Z [worker-01] [WARN] code=HIGH_CPU usage=90% process=app pid=3732 request_id=ejt70ebpy9e5
+2025-08-10T13:14:30.559Z [worker-01] [WARN] code=HIGH_CPU usage=95% process=app pid=3088 request_id=ouze66vw9b0m
+2025-08-10T13:15:00.488Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=sessions app=app-03 request_id=kreg167d6vnx pool_wait_ms=45000
+2025-08-10T13:15:30.426Z [web-03] [WARN] code=HIGH_CPU usage=97% process=app pid=3895 request_id=sv8dkmu6u4pl
+2025-08-10T13:16:00.273Z [gw-01] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=9346 cause=db_timeout request_id=309hsuwdkejp path=/api/checkout
+2025-08-10T13:16:30.478Z [app-01] [INFO] path=/api/stations status=200 latency_ms=128 request_id=xfh41a68t2a3 region=eu-central
+2025-08-10T13:17:00.219Z [app-03] [INFO] path=/api/orders status=200 latency_ms=456 request_id=qeq7z7e5rdek region=eu-west
+2025-08-10T13:17:30.425Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=transactions app=app-01 request_id=lsjws1zl7p72 pool_wait_ms=15000
+2025-08-10T13:18:00.628Z [app-03] [INFO] path=/api/orders status=204 latency_ms=56 request_id=wiv5hhqrgrew region=eu-central
+2025-08-10T13:18:30.998Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=stations app=app-03 request_id=prwzbywwimt8 pool_wait_ms=15000
+2025-08-10T13:19:00.557Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8686 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=5yrwvtkh861p
+2025-08-10T13:19:30.397Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3826 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=eqlezz1r2roi
+2025-08-10T13:20:00.415Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-03 request_id=c1jlopo6j0m3 pool_wait_ms=45000
+2025-08-10T13:20:30.461Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=sessions app=app-02 request_id=t2d8vet8an2l pool_wait_ms=20000
+2025-08-10T13:21:00.113Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=stations app=app-03 request_id=snhft4i26lh0 pool_wait_ms=15000
+2025-08-10T13:21:30.486Z [app-01] [WARN] code=GC_PAUSE duration_ms=1065 heap_used_mb=553 request_id=1ss2bkawyb03
+2025-08-10T13:22:00.951Z [worker-01] [WARN] code=HIGH_CPU usage=92% process=app pid=5423 request_id=5csz0a0t7dvo
+2025-08-10T13:22:30.391Z [app-03] [WARN] code=NET_RETRY attempts=4 endpoint=db:5432 backoff_ms=800 request_id=p0kqd8unpiok
+2025-08-10T13:23:00.758Z [app-03] [WARN] code=NET_RETRY attempts=3 endpoint=db:5432 backoff_ms=1600 request_id=arontdi9oinu
+2025-08-10T13:23:30.338Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=4523 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=39dg5rifwr0u
+2025-08-10T13:24:00.611Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=39% request_id=ro04byv5jhur
+2025-08-10T13:24:30.302Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=transactions app=app-03 request_id=qrt007pcease pool_wait_ms=30000
+2025-08-10T13:25:00.377Z [worker-01] [WARN] code=HIGH_CPU usage=91% process=app pid=1639 request_id=5rwsf5pae9z5
+2025-08-10T13:25:30.238Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-02 request_id=fshwzsjq77z4 pool_wait_ms=20000
+2025-08-10T13:26:00.168Z [app-01] [WARN] code=AUTH_FAIL user=u9591 ip=192.168.242.5 reason=invalid_password request_id=lgq9azhdqdwv
+2025-08-10T13:26:30.756Z [gw-02] [ERROR] code=HTTP_500 upstream=app-03 duration_ms=17425 cause=db_timeout request_id=5magk6p0n17u path=/api/checkout
+2025-08-10T13:27:00.854Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-01 request_id=dhguesxnu4v8 pool_wait_ms=20000
+2025-08-10T13:27:30.926Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6845 table=stations query="SELECT * FROM stations WHERE created_at > NOW()-interval '1 day'" request_id=haih7wfrac8e
+2025-08-10T13:28:00.270Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.217.241 sni=api.oillibya.local request_id=lseunnrlst54
+2025-08-10T13:28:30.318Z [web-03] [WARN] code=HIGH_CPU usage=92% process=app pid=8163 request_id=ur2yupmanqy0
+2025-08-10T13:29:00.721Z [worker-02] [WARN] code=HIGH_CPU usage=98% process=app pid=4129 request_id=ng0apsaldnj7
+2025-08-10T13:29:30.867Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=transactions app=app-01 request_id=o9zjcubzqvqg pool_wait_ms=45000
+2025-08-10T13:30:00.978Z [worker-02] [WARN] code=HIGH_CPU usage=91% process=app pid=1625 request_id=nwzzg4c4epzl
+2025-08-10T13:30:30.162Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-02 request_id=ly66g9znaxoy pool_wait_ms=15000
+2025-08-10T13:31:00.577Z [app-01] [INFO] path=/api/login status=200 latency_ms=533 request_id=0dpjhsg04ajm region=us-east
+2025-08-10T13:31:30.352Z [worker-02] [WARN] code=HIGH_CPU usage=91% process=app pid=8585 request_id=d7gdlwagawq5
+2025-08-10T13:32:00.365Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=8659 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=00lnkkuo4jh9
+2025-08-10T13:32:30.819Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=payments app=app-02 request_id=rumxqw3b4nth pool_wait_ms=15000
+2025-08-10T13:33:00.243Z [app-01] [INFO] path=/api/loyalty status=200 latency_ms=315 request_id=m8t0jshhj7sw region=us-east
+2025-08-10T13:33:30.466Z [worker-01] [WARN] code=HIGH_CPU usage=99% process=app pid=6291 request_id=nnvbzw5apmxd
+2025-08-10T13:34:00.141Z [app-03] [INFO] path=/api/stations status=200 latency_ms=498 request_id=ga3qupo4jnmy region=us-east
+2025-08-10T13:34:30.242Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-03 request_id=pjuvffkvzs8u pool_wait_ms=45000
+2025-08-10T13:35:00.308Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=orders app=app-03 request_id=8l12qfaf5kci pool_wait_ms=15000
+2025-08-10T13:35:30.348Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=2538 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=ft1afdtohrnq
+2025-08-10T13:36:00.127Z [gw-01] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.198.65 sni=api.oillibya.local request_id=l7olky5vtmy8
+2025-08-10T13:36:30.447Z [gw-01] [ERROR] code=HTTP_500 upstream=app-01 duration_ms=16970 cause=db_timeout request_id=1nm3v16xeghp path=/api/checkout
+2025-08-10T13:37:00.802Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7157 table=sessions query="SELECT * FROM sessions WHERE created_at > NOW()-interval '1 day'" request_id=pkn3b8pfy4qc
+2025-08-10T13:37:30.926Z [db-02] [ERROR] code=POOL_EXHAUSTED size=75 waiting=10 msg="Connection pool exhausted" request_id=fesyaxypbp0e
+2025-08-10T13:38:00.302Z [app-02] [INFO] path=/api/loyalty status=204 latency_ms=401 request_id=z48egp15ca8z region=us-east
+2025-08-10T13:38:30.400Z [app-02] [INFO] path=/ status=204 latency_ms=485 request_id=bkern6yjmk3t region=eu-central
+2025-08-10T13:39:00.381Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=5216 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=qkbe0togtefr
+2025-08-10T13:39:30.203Z [web-03] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=29% request_id=yi340sqcnf9w
+2025-08-10T13:40:00.367Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 30000ms" table=sessions app=app-03 request_id=70pa8jx54peg pool_wait_ms=30000
+2025-08-10T13:40:30.516Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.124.25 sni=api.oillibya.local request_id=nr1p02jyv6yj
+2025-08-10T13:41:00.530Z [app-01] [WARN] code=AUTH_FAIL user=u1306 ip=192.168.212.66 reason=invalid_password request_id=jq2wdizhw0vq
+2025-08-10T13:41:30.512Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6676 table=payments query="SELECT * FROM payments WHERE created_at > NOW()-interval '1 day'" request_id=truml3f4rtgo
+2025-08-10T13:42:00.460Z [db-01] [WARN] code=SLOW_QUERY elapsed_ms=7212 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=wumh9nklybwg
+2025-08-10T13:42:30.396Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 15000ms" table=inventory app=app-02 request_id=1k09ntn8eohd pool_wait_ms=15000
+2025-08-10T13:43:00.330Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=orders app=app-01 request_id=mh6k1wxywwst pool_wait_ms=45000
+2025-08-10T13:43:30.528Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=stations app=app-02 request_id=k7f5oa31xydu pool_wait_ms=45000
+2025-08-10T13:44:00.193Z [db-02] [ERROR] code=POOL_EXHAUSTED size=157 waiting=22 msg="Connection pool exhausted" request_id=wwew9v08liuq
+2025-08-10T13:44:30.311Z [gw-02] [ERROR] code=TLS_HANDSHAKE_FAIL client_ip=10.0.11.199 sni=api.oillibya.local request_id=t54fn5g77lk6
+2025-08-10T13:45:00.171Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=inventory app=app-02 request_id=ypigqx2456iz pool_wait_ms=20000
+2025-08-10T13:45:30.646Z [web-01] [WARN] code=DISK_IO_WAIT device=nvme0n1 iowait=38% request_id=by595cpjze1x
+2025-08-10T13:46:00.967Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 45000ms" table=payments app=app-01 request_id=3c330bo7wp2d pool_wait_ms=45000
+2025-08-10T13:46:30.450Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=transactions app=app-03 request_id=nxfirjlyqz11 pool_wait_ms=20000
+2025-08-10T13:47:00.833Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=7445 table=transactions query="SELECT * FROM transactions WHERE created_at > NOW()-interval '1 day'" request_id=lqjjbfsa5uzl
+2025-08-10T13:47:30.698Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=6450 table=orders query="SELECT * FROM orders WHERE created_at > NOW()-interval '1 day'" request_id=rpk0zfknwbhk
+2025-08-10T13:48:00.596Z [db-02] [WARN] code=SLOW_QUERY elapsed_ms=3925 table=users query="SELECT * FROM users WHERE created_at > NOW()-interval '1 day'" request_id=z09owgmf4ln5
+2025-08-10T13:48:30.683Z [db-02] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-01 request_id=rnycihfv0ehr pool_wait_ms=20000
+2025-08-10T13:49:00.635Z [db-01] [ERROR] code=DB_TIMEOUT msg="Database timeout – query exceeded 20000ms" table=payments app=app-01 request_id=nbw8sj84tc2q pool_wait_ms=20000
+2025-08-10T13:49:30.635Z [app-03] [INFO] path=/api/orders status=200 latency_ms=282 request_id=g74izg9jj007 region=eu-central
