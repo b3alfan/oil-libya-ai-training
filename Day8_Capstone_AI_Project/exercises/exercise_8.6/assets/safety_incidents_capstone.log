@@ -1,0 +1,250 @@
+2025-06-17 18:26:00 | HQ | Worker without PPE | Severity=High | Action=Worker counseled
+2025-03-25 12:15:00 | Station-02 | First aid administered | Severity=Low | Action=Safety team notified
+2025-01-21 07:37:00 | Station-02 | Fire extinguisher expired | Severity=Medium | Action=Immediate corrective action
+2025-02-02 10:46:00 | Station-05 | Fire extinguisher expired | Severity=High | Action=Training scheduled
+2025-03-23 13:45:00 | Depot-A | First aid administered | Severity=Low | Action=Area cordoned off
+2025-06-14 15:59:00 | Depot-A | Worker without PPE | Severity=Medium | Action=Reported to supervisor
+2025-02-10 18:12:00 | Station-01 | Equipment malfunction | Severity=Low | Action=Reported to supervisor
+2025-07-25 14:24:00 | HQ | Slip & fall accident | Severity=Medium | Action=Investigation launched
+2025-06-18 18:50:00 | Depot-A | Equipment malfunction | Severity=Medium | Action=Safety team notified
+2025-07-10 19:42:00 | HQ | Equipment malfunction | Severity=Low | Action=Safety team notified
+2025-07-20 11:16:00 | Station-01 | Unauthorized access | Severity=Medium | Action=Investigation launched
+2025-02-07 07:56:00 | Station-02 | Slip & fall accident | Severity=Medium | Action=Investigation launched
+2025-02-21 11:26:00 | HQ | Fire extinguisher missing | Severity=High | Action=Reported to supervisor
+2025-04-03 16:51:00 | Station-05 | Chemical handling violation | Severity=Low | Action=Training scheduled
+2025-01-27 21:49:00 | Station-02 | Near miss – vehicle collision | Severity=Low | Action=Equipment replaced
+2025-03-27 22:17:00 | Depot-A | Near miss – vehicle collision | Severity=Medium | Action=Equipment replaced
+2025-07-17 07:29:00 | Depot-B | Chemical handling violation | Severity=High | Action=Worker counseled
+2025-07-13 20:02:00 | Station-05 | Minor fuel spill | Severity=Medium | Action=Reported to supervisor
+2025-05-31 08:30:00 | Depot-A | Unauthorized access | Severity=Medium | Action=Equipment replaced
+2025-06-01 13:28:00 | Station-05 | Minor fuel spill | Severity=Low | Action=Reported to supervisor
+2025-06-21 14:25:00 | Station-01 | Minor fuel spill | Severity=Low | Action=Equipment replaced
+2025-02-26 20:15:00 | Station-01 | Unauthorized access | Severity=Low | Action=Area cordoned off
+2025-01-20 14:34:00 | Depot-A | Near miss – vehicle collision | Severity=High | Action=Reported to supervisor
+2025-07-07 15:49:00 | Refinery-1 | Chemical handling violation | Severity=Medium | Action=Reported to supervisor
+2025-05-29 12:34:00 | Station-05 | Near miss – vehicle collision | Severity=Low | Action=Immediate corrective action
+2025-04-10 16:11:00 | Refinery-1 | Near miss – vehicle collision | Severity=Low | Action=Equipment replaced
+2025-06-25 19:05:00 | Refinery-1 | Equipment malfunction | Severity=Medium | Action=Equipment replaced
+2025-01-06 09:08:00 | Station-02 | Minor fuel spill | Severity=High | Action=Worker counseled
+2025-03-07 19:10:00 | Station-02 | Unauthorized access | Severity=Medium | Action=Safety team notified
+2025-01-25 15:19:00 | Refinery-1 | Near miss – vehicle collision | Severity=Low | Action=Immediate corrective action
+2025-02-09 09:54:00 | Station-02 | Fire extinguisher missing | Severity=Medium | Action=Immediate corrective action
+2025-02-15 09:48:00 | Station-05 | First aid administered | Severity=High | Action=Immediate corrective action
+2025-07-16 20:32:00 | Depot-A | Fire extinguisher expired | Severity=Low | Action=Worker counseled
+2025-04-02 08:22:00 | Depot-A | Slip & fall accident | Severity=High | Action=Equipment replaced
+2025-03-06 06:58:00 | HQ | Chemical handling violation | Severity=Low | Action=Immediate corrective action
+2025-02-11 10:21:00 | Depot-B | Slip & fall accident | Severity=Medium | Action=Equipment replaced
+2025-07-13 17:01:00 | HQ | Equipment malfunction | Severity=Medium | Action=Area cordoned off
+2025-01-27 22:49:00 | Station-02 | Unauthorized access | Severity=Low | Action=Safety team notified
+2025-06-08 21:49:00 | Refinery-1 | Chemical handling violation | Severity=High | Action=Immediate corrective action
+2025-02-28 21:35:00 | Depot-A | First aid administered | Severity=High | Action=Training scheduled
+2025-04-05 12:57:00 | Station-01 | Fire extinguisher missing | Severity=Low | Action=Investigation launched
+2025-01-01 17:01:00 | Refinery-1 | Equipment malfunction | Severity=Medium | Action=Training scheduled
+2025-07-11 06:20:00 | Station-01 | First aid administered | Severity=Low | Action=Safety team notified
+2025-06-02 22:35:00 | Depot-B | Fire extinguisher expired | Severity=Medium | Action=Safety team notified
+2025-05-07 16:07:00 | HQ | Chemical handling violation | Severity=High | Action=Reported to supervisor
+2025-03-23 13:19:00 | HQ | Near miss – vehicle collision | Severity=Medium | Action=Area cordoned off
+2025-01-10 09:03:00 | Refinery-1 | Minor fuel spill | Severity=High | Action=Safety team notified
+2025-03-08 18:09:00 | Station-05 | Minor fuel spill | Severity=Low | Action=Area cordoned off
+2025-05-16 17:04:00 | Station-05 | First aid administered | Severity=Medium | Action=Worker counseled
+2025-01-06 06:18:00 | Station-02 | Equipment malfunction | Severity=Low | Action=Immediate corrective action
+2025-05-15 09:23:00 | Station-01 | Fire extinguisher expired | Severity=Medium | Action=Worker counseled
+2025-03-23 09:11:00 | Station-02 | Chemical handling violation | Severity=Low | Action=Immediate corrective action
+2025-01-13 14:19:00 | HQ | Near miss – vehicle collision | Severity=High | Action=Immediate corrective action
+2025-05-21 15:58:00 | Refinery-1 | Near miss – vehicle collision | Severity=Low | Action=Worker counseled
+2025-04-14 07:19:00 | Station-01 | Unauthorized access | Severity=Medium | Action=Training scheduled
+2025-07-09 07:08:00 | Station-01 | Fire extinguisher expired | Severity=Low | Action=Reported to supervisor
+2025-05-03 07:30:00 | Depot-A | Equipment malfunction | Severity=Medium | Action=Immediate corrective action
+2025-02-10 13:05:00 | Station-02 | Equipment malfunction | Severity=High | Action=Safety team notified
+2025-05-26 09:40:00 | Depot-A | Fire extinguisher missing | Severity=High | Action=Equipment replaced
+2025-07-01 10:10:00 | Station-02 | Near miss – vehicle collision | Severity=Low | Action=Area cordoned off
+2025-06-24 22:56:00 | Depot-B | Minor fuel spill | Severity=Medium | Action=Equipment replaced
+2025-05-21 13:03:00 | Station-02 | Unauthorized access | Severity=Low | Action=Area cordoned off
+2025-05-16 15:22:00 | Depot-A | Slip & fall accident | Severity=High | Action=Area cordoned off
+2025-03-15 14:15:00 | HQ | Chemical handling violation | Severity=High | Action=Immediate corrective action
+2025-04-18 14:41:00 | Depot-A | Chemical handling violation | Severity=Low | Action=Reported to supervisor
+2025-04-14 12:47:00 | Refinery-1 | Minor fuel spill | Severity=High | Action=Safety team notified
+2025-02-17 09:42:00 | Station-02 | Worker without PPE | Severity=Low | Action=Reported to supervisor
+2025-03-05 07:46:00 | Refinery-1 | Fire extinguisher expired | Severity=Low | Action=Area cordoned off
+2025-02-25 14:07:00 | Station-01 | Chemical handling violation | Severity=High | Action=Equipment replaced
+2025-01-29 06:26:00 | Station-05 | Fire extinguisher expired | Severity=Medium | Action=Equipment replaced
+2025-02-06 10:46:00 | HQ | Fire extinguisher expired | Severity=Medium | Action=Training scheduled
+2025-04-16 18:42:00 | Refinery-1 | Near miss – vehicle collision | Severity=Medium | Action=Worker counseled
+2025-06-19 12:54:00 | Station-02 | Slip & fall accident | Severity=Medium | Action=Area cordoned off
+2025-02-18 13:31:00 | Station-05 | First aid administered | Severity=Low | Action=Area cordoned off
+2025-03-06 06:27:00 | Station-02 | First aid administered | Severity=Low | Action=Reported to supervisor
+2025-07-11 20:33:00 | Station-02 | Minor fuel spill | Severity=Low | Action=Area cordoned off
+2025-03-15 10:18:00 | Station-02 | Minor fuel spill | Severity=Low | Action=Area cordoned off
+2025-05-02 22:04:00 | Depot-A | Chemical handling violation | Severity=Medium | Action=Training scheduled
+2025-06-14 13:28:00 | Refinery-1 | Worker without PPE | Severity=Medium | Action=Worker counseled
+2025-04-10 14:10:00 | Station-02 | First aid administered | Severity=Low | Action=Investigation launched
+2025-01-05 13:41:00 | Depot-A | First aid administered | Severity=High | Action=Equipment replaced
+2025-05-11 10:07:00 | Refinery-1 | Minor fuel spill | Severity=High | Action=Training scheduled
+2025-03-07 09:17:00 | HQ | Near miss – vehicle collision | Severity=High | Action=Worker counseled
+2025-04-14 06:04:00 | Station-01 | Chemical handling violation | Severity=Medium | Action=Equipment replaced
+2025-03-06 13:48:00 | HQ | Near miss – vehicle collision | Severity=High | Action=Safety team notified
+2025-05-08 22:00:00 | Station-01 | Slip & fall accident | Severity=High | Action=Training scheduled
+2025-07-17 19:36:00 | Station-01 | Equipment malfunction | Severity=Low | Action=Investigation launched
+2025-02-17 09:46:00 | Refinery-1 | Minor fuel spill | Severity=Medium | Action=Area cordoned off
+2025-06-28 14:37:00 | Refinery-1 | Worker without PPE | Severity=High | Action=Area cordoned off
+2025-06-04 17:06:00 | Depot-A | Unauthorized access | Severity=Low | Action=Equipment replaced
+2025-03-25 07:54:00 | Station-05 | Equipment malfunction | Severity=Low | Action=Investigation launched
+2025-05-17 16:31:00 | Depot-A | Worker without PPE | Severity=High | Action=Reported to supervisor
+2025-01-20 09:36:00 | Station-02 | Slip & fall accident | Severity=Low | Action=Area cordoned off
+2025-02-22 20:26:00 | Refinery-1 | Near miss – vehicle collision | Severity=Low | Action=Immediate corrective action
+2025-06-24 20:45:00 | Station-02 | Slip & fall accident | Severity=Low | Action=Equipment replaced
+2025-04-05 09:02:00 | Station-01 | Minor fuel spill | Severity=Low | Action=Area cordoned off
+2025-03-13 20:57:00 | Station-01 | Worker without PPE | Severity=Low | Action=Training scheduled
+2025-06-06 09:05:00 | HQ | Minor fuel spill | Severity=Low | Action=Equipment replaced
+2025-05-02 14:34:00 | Refinery-1 | Slip & fall accident | Severity=Medium | Action=Reported to supervisor
+2025-07-29 12:50:00 | Station-05 | Unauthorized access | Severity=Low | Action=Immediate corrective action
+2025-05-09 13:59:00 | Station-05 | Chemical handling violation | Severity=Medium | Action=Reported to supervisor
+2025-06-28 17:59:00 | HQ | Equipment malfunction | Severity=High | Action=Investigation launched
+2025-06-28 11:01:00 | Refinery-1 | Fire extinguisher expired | Severity=High | Action=Reported to supervisor
+2025-03-12 12:11:00 | Station-02 | Slip & fall accident | Severity=High | Action=Reported to supervisor
+2025-02-15 12:52:00 | Station-02 | Worker without PPE | Severity=Medium | Action=Safety team notified
+2025-04-28 07:42:00 | Station-02 | First aid administered | Severity=Low | Action=Safety team notified
+2025-01-31 12:23:00 | HQ | Minor fuel spill | Severity=Low | Action=Area cordoned off
+2025-06-26 08:53:00 | Depot-A | Slip & fall accident | Severity=Low | Action=Area cordoned off
+2025-02-13 17:02:00 | Station-02 | Near miss – vehicle collision | Severity=Low | Action=Area cordoned off
+2025-01-22 11:13:00 | Station-02 | Fire extinguisher expired | Severity=Low | Action=Area cordoned off
+2025-04-22 13:44:00 | Station-05 | Slip & fall accident | Severity=Medium | Action=Training scheduled
+2025-02-10 12:28:00 | Station-02 | Unauthorized access | Severity=Medium | Action=Investigation launched
+2025-03-22 14:38:00 | Refinery-1 | Worker without PPE | Severity=Low | Action=Reported to supervisor
+2025-04-14 15:24:00 | Depot-A | Near miss – vehicle collision | Severity=High | Action=Immediate corrective action
+2025-01-30 10:57:00 | Station-02 | Fire extinguisher missing | Severity=High | Action=Immediate corrective action
+2025-05-03 18:58:00 | Refinery-1 | Chemical handling violation | Severity=Low | Action=Safety team notified
+2025-05-13 11:34:00 | HQ | Worker without PPE | Severity=Low | Action=Safety team notified
+2025-01-13 22:54:00 | Depot-B | Chemical handling violation | Severity=Low | Action=Immediate corrective action
+2025-05-18 08:21:00 | Depot-B | Near miss – vehicle collision | Severity=Medium | Action=Immediate corrective action
+2025-03-08 16:35:00 | HQ | Slip & fall accident | Severity=Low | Action=Safety team notified
+2025-04-20 21:54:00 | Station-02 | Worker without PPE | Severity=High | Action=Equipment replaced
+2025-06-12 08:33:00 | Depot-B | Slip & fall accident | Severity=Low | Action=Investigation launched
+2025-04-19 08:47:00 | Depot-A | Equipment malfunction | Severity=High | Action=Safety team notified
+2025-03-12 16:01:00 | HQ | Fire extinguisher missing | Severity=Low | Action=Reported to supervisor
+2025-07-18 06:55:00 | Station-01 | Fire extinguisher missing | Severity=Low | Action=Training scheduled
+2025-07-13 08:05:00 | Depot-A | Worker without PPE | Severity=Medium | Action=Immediate corrective action
+2025-07-20 17:03:00 | Station-01 | Chemical handling violation | Severity=Medium | Action=Safety team notified
+2025-03-22 18:43:00 | HQ | Fire extinguisher expired | Severity=Medium | Action=Worker counseled
+2025-03-08 11:05:00 | HQ | Near miss – vehicle collision | Severity=High | Action=Safety team notified
+2025-06-21 21:18:00 | Depot-B | First aid administered | Severity=Low | Action=Immediate corrective action
+2025-02-14 15:32:00 | HQ | Chemical handling violation | Severity=Medium | Action=Reported to supervisor
+2025-04-08 21:02:00 | Depot-A | Near miss – vehicle collision | Severity=Low | Action=Investigation launched
+2025-01-12 07:00:00 | Station-02 | Minor fuel spill | Severity=Medium | Action=Area cordoned off
+2025-06-12 16:05:00 | Refinery-1 | Equipment malfunction | Severity=High | Action=Worker counseled
+2025-02-08 18:24:00 | Station-01 | Chemical handling violation | Severity=Medium | Action=Equipment replaced
+2025-02-08 14:32:00 | Station-05 | Worker without PPE | Severity=High | Action=Training scheduled
+2025-01-13 17:19:00 | HQ | Slip & fall accident | Severity=High | Action=Area cordoned off
+2025-01-11 07:40:00 | Station-01 | First aid administered | Severity=Low | Action=Area cordoned off
+2025-03-03 19:38:00 | Depot-B | Chemical handling violation | Severity=High | Action=Investigation launched
+2025-04-01 06:49:00 | HQ | Chemical handling violation | Severity=Low | Action=Safety team notified
+2025-01-17 07:17:00 | Station-01 | Fire extinguisher missing | Severity=Medium | Action=Area cordoned off
+2025-05-16 09:56:00 | Depot-B | Near miss – vehicle collision | Severity=Medium | Action=Reported to supervisor
+2025-06-10 14:54:00 | Depot-B | Slip & fall accident | Severity=Medium | Action=Investigation launched
+2025-03-05 22:12:00 | Refinery-1 | Unauthorized access | Severity=High | Action=Equipment replaced
+2025-06-15 08:25:00 | Station-02 | Minor fuel spill | Severity=High | Action=Safety team notified
+2025-01-17 10:44:00 | Depot-B | Unauthorized access | Severity=High | Action=Worker counseled
+2025-02-13 22:36:00 | Depot-A | Minor fuel spill | Severity=Low | Action=Worker counseled
+2025-01-06 13:56:00 | HQ | Unauthorized access | Severity=Medium | Action=Safety team notified
+2025-07-04 22:27:00 | Station-01 | Worker without PPE | Severity=Medium | Action=Worker counseled
+2025-01-22 20:55:00 | HQ | Fire extinguisher missing | Severity=Medium | Action=Area cordoned off
+2025-06-11 18:10:00 | HQ | Equipment malfunction | Severity=Medium | Action=Training scheduled
+2025-01-11 11:25:00 | Refinery-1 | Worker without PPE | Severity=Medium | Action=Training scheduled
+2025-05-20 11:18:00 | HQ | Worker without PPE | Severity=High | Action=Reported to supervisor
+2025-01-22 21:24:00 | Depot-A | Minor fuel spill | Severity=Medium | Action=Worker counseled
+2025-05-12 22:32:00 | HQ | Fire extinguisher missing | Severity=High | Action=Equipment replaced
+2025-01-28 17:15:00 | Refinery-1 | Near miss – vehicle collision | Severity=Medium | Action=Safety team notified
+2025-03-26 10:29:00 | HQ | Chemical handling violation | Severity=High | Action=Reported to supervisor
+2025-06-26 16:02:00 | Refinery-1 | Minor fuel spill | Severity=Medium | Action=Reported to supervisor
+2025-03-03 12:58:00 | Station-02 | Worker without PPE | Severity=Low | Action=Training scheduled
+2025-05-15 14:37:00 | Refinery-1 | Equipment malfunction | Severity=Medium | Action=Immediate corrective action
+2025-07-06 13:51:00 | HQ | Slip & fall accident | Severity=Low | Action=Immediate corrective action
+2025-01-25 20:33:00 | Refinery-1 | First aid administered | Severity=High | Action=Immediate corrective action
+2025-01-13 12:15:00 | Station-01 | Chemical handling violation | Severity=Medium | Action=Equipment replaced
+2025-02-25 10:25:00 | Station-02 | Equipment malfunction | Severity=Medium | Action=Reported to supervisor
+2025-01-09 08:05:00 | HQ | Chemical handling violation | Severity=Medium | Action=Investigation launched
+2025-04-10 09:29:00 | HQ | Near miss – vehicle collision | Severity=High | Action=Area cordoned off
+2025-07-04 22:57:00 | Station-01 | Fire extinguisher missing | Severity=Low | Action=Safety team notified
+2025-07-30 06:51:00 | Depot-B | Fire extinguisher missing | Severity=Medium | Action=Immediate corrective action
+2025-07-19 19:07:00 | Station-02 | Near miss – vehicle collision | Severity=Low | Action=Reported to supervisor
+2025-06-26 18:21:00 | Refinery-1 | First aid administered | Severity=Medium | Action=Investigation launched
+2025-07-06 15:52:00 | Station-01 | Chemical handling violation | Severity=Low | Action=Area cordoned off
+2025-06-08 12:25:00 | Depot-B | Equipment malfunction | Severity=Low | Action=Training scheduled
+2025-01-15 08:19:00 | Station-01 | Chemical handling violation | Severity=High | Action=Immediate corrective action
+2025-06-13 15:06:00 | Station-05 | Near miss – vehicle collision | Severity=Low | Action=Equipment replaced
+2025-04-12 22:30:00 | HQ | Equipment malfunction | Severity=High | Action=Reported to supervisor
+2025-02-05 19:12:00 | HQ | Slip & fall accident | Severity=Low | Action=Safety team notified
+2025-06-05 22:09:00 | Station-02 | Fire extinguisher expired | Severity=Medium | Action=Investigation launched
+2025-03-27 16:26:00 | Station-01 | Fire extinguisher expired | Severity=Low | Action=Worker counseled
+2025-06-28 15:08:00 | Depot-B | Near miss – vehicle collision | Severity=High | Action=Area cordoned off
+2025-01-11 17:40:00 | HQ | Fire extinguisher missing | Severity=Low | Action=Training scheduled
+2025-05-07 18:27:00 | HQ | Unauthorized access | Severity=High | Action=Reported to supervisor
+2025-06-27 09:07:00 | Depot-A | Slip & fall accident | Severity=Low | Action=Reported to supervisor
+2025-02-19 07:33:00 | Station-05 | Worker without PPE | Severity=Medium | Action=Area cordoned off
+2025-06-05 08:52:00 | Depot-A | Fire extinguisher missing | Severity=High | Action=Safety team notified
+2025-04-27 08:20:00 | Station-01 | Worker without PPE | Severity=Low | Action=Safety team notified
+2025-03-07 16:22:00 | HQ | Fire extinguisher missing | Severity=High | Action=Area cordoned off
+2025-05-21 11:27:00 | Station-01 | Chemical handling violation | Severity=High | Action=Investigation launched
+2025-05-05 19:48:00 | Refinery-1 | Near miss – vehicle collision | Severity=High | Action=Safety team notified
+2025-02-23 22:53:00 | Station-05 | Minor fuel spill | Severity=Low | Action=Reported to supervisor
+2025-03-03 15:57:00 | Station-01 | Near miss – vehicle collision | Severity=Low | Action=Investigation launched
+2025-03-29 15:15:00 | HQ | First aid administered | Severity=Medium | Action=Safety team notified
+2025-01-12 12:14:00 | Depot-B | Equipment malfunction | Severity=Low | Action=Immediate corrective action
+2025-01-27 17:28:00 | Depot-B | Fire extinguisher missing | Severity=High | Action=Reported to supervisor
+2025-04-05 08:51:00 | Station-05 | Minor fuel spill | Severity=Low | Action=Safety team notified
+2025-07-02 20:16:00 | HQ | Chemical handling violation | Severity=Medium | Action=Safety team notified
+2025-07-13 19:49:00 | Depot-B | Chemical handling violation | Severity=High | Action=Area cordoned off
+2025-03-17 20:05:00 | Station-05 | Near miss – vehicle collision | Severity=High | Action=Safety team notified
+2025-07-20 17:37:00 | Refinery-1 | Unauthorized access | Severity=Low | Action=Equipment replaced
+2025-03-26 09:18:00 | HQ | Fire extinguisher missing | Severity=High | Action=Worker counseled
+2025-06-08 12:11:00 | Station-01 | Worker without PPE | Severity=Low | Action=Safety team notified
+2025-03-17 10:49:00 | Depot-A | Unauthorized access | Severity=Medium | Action=Reported to supervisor
+2025-06-09 06:35:00 | Station-02 | First aid administered | Severity=High | Action=Area cordoned off
+2025-01-31 20:48:00 | Station-01 | Unauthorized access | Severity=Low | Action=Investigation launched
+2025-07-11 12:19:00 | Refinery-1 | Near miss – vehicle collision | Severity=High | Action=Equipment replaced
+2025-06-05 13:20:00 | Station-05 | Chemical handling violation | Severity=High | Action=Equipment replaced
+2025-02-05 06:53:00 | HQ | Minor fuel spill | Severity=Medium | Action=Reported to supervisor
+2025-04-15 09:09:00 | Depot-B | Chemical handling violation | Severity=Medium | Action=Area cordoned off
+2025-01-08 10:25:00 | HQ | Chemical handling violation | Severity=High | Action=Training scheduled
+2025-06-23 10:27:00 | Station-01 | Minor fuel spill | Severity=High | Action=Area cordoned off
+2025-04-07 17:26:00 | HQ | Fire extinguisher expired | Severity=Low | Action=Equipment replaced
+2025-05-24 21:51:00 | Station-01 | Unauthorized access | Severity=Low | Action=Safety team notified
+2025-07-26 22:20:00 | Station-05 | Chemical handling violation | Severity=Medium | Action=Immediate corrective action
+2025-02-19 14:25:00 | Station-02 | Near miss – vehicle collision | Severity=High | Action=Equipment replaced
+2025-07-23 15:54:00 | Station-05 | Near miss – vehicle collision | Severity=Low | Action=Reported to supervisor
+2025-02-12 21:48:00 | Station-01 | Worker without PPE | Severity=High | Action=Reported to supervisor
+2025-05-12 19:38:00 | Depot-A | Unauthorized access | Severity=Low | Action=Immediate corrective action
+2025-01-30 18:32:00 | Station-01 | Worker without PPE | Severity=High | Action=Immediate corrective action
+2025-02-19 16:52:00 | Station-01 | Fire extinguisher missing | Severity=Medium | Action=Immediate corrective action
+2025-05-16 07:39:00 | Station-01 | Minor fuel spill | Severity=High | Action=Worker counseled
+2025-06-05 08:54:00 | Station-01 | Equipment malfunction | Severity=Medium | Action=Investigation launched
+2025-07-18 11:55:00 | Station-02 | Near miss – vehicle collision | Severity=High | Action=Investigation launched
+2025-04-16 10:03:00 | Station-02 | Equipment malfunction | Severity=Medium | Action=Worker counseled
+2025-01-05 21:28:00 | Depot-B | First aid administered | Severity=Medium | Action=Worker counseled
+2025-02-11 07:45:00 | Station-02 | First aid administered | Severity=Medium | Action=Area cordoned off
+2025-06-21 10:38:00 | Station-05 | Slip & fall accident | Severity=High | Action=Reported to supervisor
+2025-07-24 08:47:00 | Refinery-1 | First aid administered | Severity=Medium | Action=Investigation launched
+2025-01-13 11:36:00 | Station-01 | Chemical handling violation | Severity=Low | Action=Worker counseled
+2025-04-12 22:43:00 | Station-05 | Near miss – vehicle collision | Severity=Low | Action=Immediate corrective action
+2025-02-20 12:29:00 | Station-01 | Worker without PPE | Severity=Medium | Action=Safety team notified
+2025-04-02 11:12:00 | Depot-A | Equipment malfunction | Severity=Medium | Action=Immediate corrective action
+2025-05-20 08:29:00 | Station-02 | Fire extinguisher missing | Severity=High | Action=Safety team notified
+2025-01-27 08:38:00 | Station-01 | Slip & fall accident | Severity=Low | Action=Area cordoned off
+2025-02-26 19:15:00 | Refinery-1 | Near miss – vehicle collision | Severity=Low | Action=Training scheduled
+2025-04-30 21:34:00 | Station-05 | Chemical handling violation | Severity=Low | Action=Area cordoned off
+2025-02-18 12:28:00 | Refinery-1 | Fire extinguisher expired | Severity=Medium | Action=Worker counseled
+2025-03-09 07:46:00 | HQ | Slip & fall accident | Severity=Low | Action=Training scheduled
+2025-02-06 18:18:00 | Station-01 | Near miss – vehicle collision | Severity=Medium | Action=Immediate corrective action
+2025-03-12 15:03:00 | Depot-A | Worker without PPE | Severity=High | Action=Equipment replaced
+2025-03-06 09:25:00 | Depot-B | First aid administered | Severity=Low | Action=Immediate corrective action
+2025-04-29 21:42:00 | Station-02 | Near miss – vehicle collision | Severity=Low | Action=Safety team notified
+2025-01-04 11:40:00 | Depot-A | Fire extinguisher expired | Severity=Low | Action=Safety team notified
+2025-06-10 12:16:00 | Depot-A | Near miss – vehicle collision | Severity=High | Action=Safety team notified
+2025-05-20 16:47:00 | HQ | First aid administered | Severity=Low | Action=Investigation launched
+2025-07-14 19:55:00 | HQ | Worker without PPE | Severity=Low | Action=Equipment replaced
+2025-05-12 11:34:00 | Depot-A | Equipment malfunction | Severity=Medium | Action=Reported to supervisor
+2025-02-28 20:47:00 | Depot-A | Fire extinguisher missing | Severity=Medium | Action=Area cordoned off
+2025-06-24 09:29:00 | Refinery-1 | First aid administered | Severity=Medium | Action=Reported to supervisor
+2025-05-08 13:57:00 | Depot-B | Unauthorized access | Severity=Low | Action=Safety team notified
+2025-04-04 06:24:00 | Station-02 | Near miss – vehicle collision | Severity=High | Action=Immediate corrective action
+2025-02-13 11:14:00 | Station-05 | Equipment malfunction | Severity=Low | Action=Safety team notified
