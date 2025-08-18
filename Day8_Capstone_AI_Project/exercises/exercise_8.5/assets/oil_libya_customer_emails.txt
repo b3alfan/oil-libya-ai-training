@@ -1,0 +1,899 @@
+-----
+Email #1
+Date: 2025-07-09 09:43
+From: Khaled Hussein <customer01@example.com>
+Phone: +218-90-2458591
+City: Benghazi
+Station: Station #102
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Long queues because two pumps were out of service for more than an hour.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Khaled Hussein
+
+-----
+Email #2
+Date: 2025-07-14 13:32
+From: Amina Mahmoud <customer02@example.com>
+Phone: +218-24-4335942
+City: Zliten
+Station: Station #128
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The diesel pump at Station #128 shut off every few seconds and under-dispensed.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Amina Mahmoud
+
+-----
+Email #3
+Date: 2025-07-18 06:48
+From: Noor Haile <customer03@example.com>
+Phone: +218-41-8090293
+City: Derna
+Station: Station #127
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Nozzle at pump 4 was leaking and the meter seemed inaccurate.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Noor Haile
+
+-----
+Email #4
+Date: 2025-07-07 08:24
+From: Samira Awate <customer04@example.com>
+Phone: +218-33-7022674
+City: Al Bayda
+Station: Station #118
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Nozzle at pump 4 was leaking and the meter seemed inaccurate.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Samira Awate
+
+-----
+Email #5
+Date: 2025-08-04 09:59
+From: Hassan Mohamed <customer05@example.com>
+Phone: +218-69-2322047
+City: Al Bayda
+Station: Station #139
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Long queues because two pumps were out of service for more than an hour.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Hassan Mohamed
+
+-----
+Email #6
+Date: 2025-08-15 08:02
+From: Ziad Ismail <customer06@example.com>
+Phone: +218-50-5855124
+City: Derna
+Station: Station #119
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Long queues because two pumps were out of service for more than an hour.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Ziad Ismail
+
+-----
+Email #7
+Date: 2025-07-18 20:40
+From: Yusuf Suleiman <customer07@example.com>
+Phone: +218-67-3728882
+City: Benghazi
+Station: Station #155
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Nozzle at pump 4 was leaking and the meter seemed inaccurate.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Yusuf Suleiman
+
+-----
+Email #8
+Date: 2025-08-08 11:34
+From: Nadia Mahmoud <customer08@example.com>
+Phone: +218-52-3741438
+City: Al Bayda
+Station: Station #123
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Nozzle at pump 4 was leaking and the meter seemed inaccurate.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Nadia Mahmoud
+
+-----
+Email #9
+Date: 2025-08-13 16:53
+From: Lina Hussein <customer09@example.com>
+Phone: +218-28-4842788
+City: Zawiya
+Station: Station #125
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Long queues because two pumps were out of service for more than an hour.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Lina Hussein
+
+-----
+Email #10
+Date: 2025-07-05 12:58
+From: Sara Girma <customer10@example.com>
+Phone: +218-61-4567281
+City: Tripoli
+Station: Station #152
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Long queues because two pumps were out of service for more than an hour.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Sara Girma
+
+-----
+Email #11
+Date: 2025-07-09 13:47
+From: Mariam Girma <customer11@example.com>
+Phone: +218-92-5408072
+City: Zawiya
+Station: Station #126
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The premium fuel pump wouldn't start even after the attendant tried multiple times.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Mariam Girma
+
+-----
+Email #12
+Date: 2025-07-09 22:31
+From: Bilal Hussein <customer12@example.com>
+Phone: +218-32-1790481
+City: Zliten
+Station: Station #128
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The premium fuel pump wouldn't start even after the attendant tried multiple times.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Bilal Hussein
+
+-----
+Email #13
+Date: 2025-07-05 18:24
+From: Tariq Nur <customer13@example.com>
+Phone: +218-80-9877065
+City: Benghazi
+Station: Station #110
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Nozzle at pump 4 was leaking and the meter seemed inaccurate.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Tariq Nur
+
+-----
+Email #14
+Date: 2025-07-18 16:07
+From: Yusuf Fahmi <customer14@example.com>
+Phone: +218-58-8294150
+City: Sirte
+Station: Station #136
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The diesel pump at Station #136 shut off every few seconds and under-dispensed.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Yusuf Fahmi
+
+-----
+Email #15
+Date: 2025-07-12 22:58
+From: Nadia Bekele <customer15@example.com>
+Phone: +218-34-6007072
+City: Misrata
+Station: Station #130
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The diesel pump at Station #130 shut off every few seconds and under-dispensed.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Nadia Bekele
+
+-----
+Email #16
+Date: 2025-07-11 22:58
+From: Mariam Ahmed <customer16@example.com>
+Phone: +218-21-6438436
+City: Derna
+Station: Station #139
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+Nozzle at pump 4 was leaking and the meter seemed inaccurate.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Mariam Ahmed
+
+-----
+Email #17
+Date: 2025-07-16 07:15
+From: Bilal Kebede <customer17@example.com>
+Phone: +218-31-2437026
+City: Zawiya
+Station: Station #102
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The diesel pump at Station #102 shut off every few seconds and under-dispensed.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Bilal Kebede
+
+-----
+Email #18
+Date: 2025-07-09 21:35
+From: Lina Yohannes <customer18@example.com>
+Phone: +218-42-5446912
+City: Zawiya
+Station: Station #153
+Subject: Problem with fuel pump today
+
+Hello Oil Libya,
+
+The diesel pump at Station #153 shut off every few seconds and under-dispensed.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Lina Yohannes
+
+-----
+Email #19
+Date: 2025-08-14 12:45
+From: Samira Fahmi <customer19@example.com>
+Phone: +218-60-7693979
+City: Derna
+Station: Station #156
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Loyalty card wasn’t recognized and points didn’t add up.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Samira Fahmi
+
+-----
+Email #20
+Date: 2025-07-15 08:21
+From: Yusuf Hussein <customer20@example.com>
+Phone: +218-23-4860684
+City: Al Bayda
+Station: Station #129
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Loyalty card wasn’t recognized and points didn’t add up.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Yusuf Hussein
+
+-----
+Email #21
+Date: 2025-07-15 08:57
+From: Leila Hassan <customer21@example.com>
+Phone: +218-25-6543670
+City: Zliten
+Station: Station #115
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+My bank card kept getting declined although it works elsewhere.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Leila Hassan
+
+-----
+Email #22
+Date: 2025-07-14 10:46
+From: Nadia Kiros <customer22@example.com>
+Phone: +218-81-5076817
+City: Benghazi
+Station: Station #133
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+POS terminal froze twice and I was charged twice—need a refund.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Nadia Kiros
+
+-----
+Email #23
+Date: 2025-07-07 19:22
+From: Samira Saleh <customer23@example.com>
+Phone: +218-75-7897151
+City: Zawiya
+Station: Station #152
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Loyalty card wasn’t recognized and points didn’t add up.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Samira Saleh
+
+-----
+Email #24
+Date: 2025-07-26 16:51
+From: Yusuf Hassan <customer24@example.com>
+Phone: +218-34-5171761
+City: Zawiya
+Station: Station #156
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+My bank card kept getting declined although it works elsewhere.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Yusuf Hassan
+
+-----
+Email #25
+Date: 2025-07-12 14:29
+From: Mariam Tesfay <customer25@example.com>
+Phone: +218-52-2264748
+City: Sebha
+Station: Station #113
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Loyalty card wasn’t recognized and points didn’t add up.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Mariam Tesfay
+
+-----
+Email #26
+Date: 2025-07-01 08:59
+From: Hassan Fahmi <customer26@example.com>
+Phone: +218-51-3790237
+City: Zawiya
+Station: Station #152
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+My bank card kept getting declined although it works elsewhere.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Hassan Fahmi
+
+-----
+Email #27
+Date: 2025-07-04 11:24
+From: Samira Suleiman <customer27@example.com>
+Phone: +218-21-7550190
+City: Tobruk
+Station: Station #132
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Loyalty card wasn’t recognized and points didn’t add up.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Samira Suleiman
+
+-----
+Email #28
+Date: 2025-08-14 21:09
+From: Faisal Tesfay <customer28@example.com>
+Phone: +218-45-5977931
+City: Sirte
+Station: Station #151
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Loyalty card wasn’t recognized and points didn’t add up.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Faisal Tesfay
+
+-----
+Email #29
+Date: 2025-07-04 21:32
+From: Rania Hassan <customer29@example.com>
+Phone: +218-88-3641282
+City: Sebha
+Station: Station #104
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+My bank card kept getting declined although it works elsewhere.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Rania Hassan
+
+-----
+Email #30
+Date: 2025-08-08 08:43
+From: Omar Mahmoud <customer30@example.com>
+Phone: +218-51-7774229
+City: Tripoli
+Station: Station #133
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+My bank card kept getting declined although it works elsewhere.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Omar Mahmoud
+
+-----
+Email #31
+Date: 2025-07-03 08:26
+From: Ziad Nur <customer31@example.com>
+Phone: +218-87-6307805
+City: Benghazi
+Station: Station #157
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+POS terminal froze twice and I was charged twice—need a refund.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Ziad Nur
+
+-----
+Email #32
+Date: 2025-07-26 10:42
+From: Khaled Girma <customer32@example.com>
+Phone: +218-59-8670955
+City: Sirte
+Station: Station #114
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+Contactless payment didn’t work; had to go withdraw cash.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Khaled Girma
+
+-----
+Email #33
+Date: 2025-08-09 09:04
+From: Amina Mohamed <customer33@example.com>
+Phone: +218-89-4576135
+City: Al Bayda
+Station: Station #149
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+My bank card kept getting declined although it works elsewhere.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Amina Mohamed
+
+-----
+Email #34
+Date: 2025-07-16 17:18
+From: Bilal Mahmoud <customer34@example.com>
+Phone: +218-41-8351517
+City: Derna
+Station: Station #117
+Subject: Card/Payment not working
+
+Hello Oil Libya,
+
+POS terminal froze twice and I was charged twice—need a refund.
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Bilal Mahmoud
+
+-----
+Email #35
+Date: 2025-07-01 15:59
+From: Farah Bekele <customer35@example.com>
+Phone: +218-34-3253031
+City: Derna
+Station: Station #146
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Farah Bekele
+
+-----
+Email #36
+Date: 2025-07-18 15:38
+From: Lina Yohannes <customer36@example.com>
+Phone: +218-47-6752576
+City: Sirte
+Station: Station #108
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Your petrol was 0.10 LYD higher than a nearby station—why the difference?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Lina Yohannes
+
+-----
+Email #37
+Date: 2025-07-17 07:05
+From: Salim Kiros <customer37@example.com>
+Phone: +218-75-5641923
+City: Sebha
+Station: Station #144
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Salim Kiros
+
+-----
+Email #38
+Date: 2025-07-11 20:35
+From: Mariam Girma <customer38@example.com>
+Phone: +218-75-1162230
+City: Tripoli
+Station: Station #101
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Mariam Girma
+
+-----
+Email #39
+Date: 2025-07-24 10:27
+From: Lina Hassan <customer39@example.com>
+Phone: +218-37-1701771
+City: Benghazi
+Station: Station #105
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Prices jumped since last week; any discounts coming soon?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Lina Hassan
+
+-----
+Email #40
+Date: 2025-08-13 13:42
+From: Bilal Ismail <customer40@example.com>
+Phone: +218-34-6933742
+City: Sirte
+Station: Station #124
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Your petrol was 0.10 LYD higher than a nearby station—why the difference?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Bilal Ismail
+
+-----
+Email #41
+Date: 2025-07-16 11:51
+From: Farah Yohannes <customer41@example.com>
+Phone: +218-43-7917152
+City: Derna
+Station: Station #157
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Can students get special rates on weekdays?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Farah Yohannes
+
+-----
+Email #42
+Date: 2025-07-18 11:50
+From: Tariq Hussein <customer42@example.com>
+Phone: +218-34-7417985
+City: Tripoli
+Station: Station #112
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Tariq Hussein
+
+-----
+Email #43
+Date: 2025-07-30 17:19
+From: Khaled Ismail <customer43@example.com>
+Phone: +218-50-4740036
+City: Tripoli
+Station: Station #155
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Can students get special rates on weekdays?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Khaled Ismail
+
+-----
+Email #44
+Date: 2025-07-18 08:49
+From: Sara Awate <customer44@example.com>
+Phone: +218-56-6891254
+City: Tripoli
+Station: Station #143
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Prices jumped since last week; any discounts coming soon?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Sara Awate
+
+-----
+Email #45
+Date: 2025-07-17 11:37
+From: Amina Saleh <customer45@example.com>
+Phone: +218-54-1641849
+City: Derna
+Station: Station #126
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Amina Saleh
+
+-----
+Email #46
+Date: 2025-07-28 22:07
+From: Bilal Awate <customer46@example.com>
+Phone: +218-70-4188992
+City: Benghazi
+Station: Station #139
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Can students get special rates on weekdays?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Bilal Awate
+
+-----
+Email #47
+Date: 2025-08-04 12:23
+From: Amina Bekele <customer47@example.com>
+Phone: +218-76-2173965
+City: Sirte
+Station: Station #103
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Can students get special rates on weekdays?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Amina Bekele
+
+-----
+Email #48
+Date: 2025-08-02 15:42
+From: Yusuf Kebede <customer48@example.com>
+Phone: +218-73-6472441
+City: Al Bayda
+Station: Station #140
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Yusuf Kebede
+
+-----
+Email #49
+Date: 2025-07-13 19:42
+From: Lina Yohannes <customer49@example.com>
+Phone: +218-69-3919694
+City: Tobruk
+Station: Station #145
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Lina Yohannes
+
+-----
+Email #50
+Date: 2025-07-01 15:18
+From: Sara Fahmi <customer50@example.com>
+Phone: +218-47-8212326
+City: Zliten
+Station: Station #137
+Subject: Fuel pricing question
+
+Hello Oil Libya,
+
+Family budget is tight—do you have loyalty offers to reduce cost?
+
+Please advise on what can be done. Thank you.
+
+Regards,
+Sara Fahmi
