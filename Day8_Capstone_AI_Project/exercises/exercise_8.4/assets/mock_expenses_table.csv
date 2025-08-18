@@ -1,0 +1,121 @@
+Date,Department,Vendor,Amount (USD),Notes
+2025-07-24,Admin,CleanCo,18177.38,Routine purchase
+2025-07-15,Fuel Ops,PumpMaster,9691.17,Unexpected charge
+2025-07-19,Logistics,CargoLine,42205.72,Conference
+2025-07-29,Sales,HotelLux,42092.67,Duplicate entry
+2025-07-25,Procurement,MegaBuy,54939.25,Duplicate entry
+2025-07-22,HR,OfficeMax,42192.13,Unexpected charge
+2025-07-06,Admin,FixIt,22227.2,Unexpected charge
+2025-07-09,Fuel Ops,PumpMaster,19795.02,Maintenance contract
+2025-07-23,Procurement,EquipHub,34161.06,Suspicious fee
+2025-07-21,Sales,AdBoard,8128.58,Suspicious fee
+2025-07-26,Sales,HotelLux,15932.42,Maintenance contract
+2025-07-09,IT,DataSys,26922.69,Duplicate entry
+2025-07-12,Admin,CleanCo,1145.19,Unexpected charge
+2025-07-09,Finance,Consultant,33274.58,Emergency order
+2025-07-10,Admin,FixIt,24052.92,Duplicate entry
+2025-07-24,Finance,Consultant,23459.08,Unexpected charge
+2025-07-12,Admin,CleanCo,38729.4,Duplicate entry
+2025-07-12,Fuel Ops,TechServ,6001.58,Routine purchase
+2025-07-01,Logistics,Transpo,25154.42,Duplicate entry
+2025-07-14,Fuel Ops,SafetyFirst,8693.58,Maintenance contract
+2025-07-22,HR,TrainingCo,21357.58,Suspicious fee
+2025-07-29,Admin,FixIt,41206.39,Suspicious fee
+2025-07-17,Fuel Ops,PumpMaster,53350.01,Routine purchase
+2025-07-30,Sales,TravelCo,45822.64,Maintenance contract
+2025-07-19,Sales,TravelCo,5670.35,Conference
+2025-07-29,IT,SoftWorld,89.27,Routine purchase
+2025-07-05,Procurement,MegaBuy,40580.08,Duplicate entry
+2025-07-13,Logistics,ShipFast,9612.05,Suspicious fee
+2025-07-07,Finance,AuditPlus,36221.44,Suspicious fee
+2025-07-20,HR,TrainingCo,32637.19,Routine purchase
+2025-07-04,HR,OfficeMax,41816.2,Duplicate entry
+2025-07-03,Finance,LegalAid,257.16,Maintenance contract
+2025-07-23,Procurement,EquipHub,27772.35,Conference
+2025-07-03,Finance,AuditPlus,15829.8,Conference
+2025-07-25,Sales,AdBoard,5261.97,Maintenance contract
+2025-07-18,Procurement,EquipHub,50192.82,Suspicious fee
+2025-07-30,Admin,CleanCo,41288.94,Emergency order
+2025-07-13,IT,DataSys,57252.26,Annual subscription
+2025-07-04,Admin,CleanCo,50181.75,Emergency order
+2025-07-01,Sales,HotelLux,49405.77,Unexpected charge
+2025-07-17,Finance,LegalAid,36966.93,Routine purchase
+2025-07-28,Finance,Consultant,27928.63,Unexpected charge
+2025-07-13,Logistics,Transpo,25476.63,Emergency order
+2025-07-02,Finance,LegalAid,2768.76,Suspicious fee
+2025-07-16,HR,WorkWear,36298.42,Annual subscription
+2025-07-20,Logistics,ShipFast,45120.42,Suspicious fee
+2025-07-11,HR,WorkWear,52230.99,Maintenance contract
+2025-07-17,Logistics,Transpo,31962.94,Routine purchase
+2025-07-17,Fuel Ops,SafetyFirst,39718.46,Maintenance contract
+2025-07-24,Fuel Ops,SafetyFirst,4784.73,Duplicate entry
+2025-07-04,Sales,TravelCo,24240.22,Conference
+2025-07-25,IT,DataSys,2426.16,Conference
+2025-07-01,Procurement,SupplyMart,22569.73,Maintenance contract
+2025-07-01,Sales,HotelLux,57209.04,Maintenance contract
+2025-07-31,Fuel Ops,TechServ,51932.01,Conference
+2025-07-16,HR,WorkWear,18802.69,Unexpected charge
+2025-07-28,Finance,AuditPlus,35469.71,Routine purchase
+2025-07-08,Sales,TravelCo,46882.34,Annual subscription
+2025-07-11,Procurement,MegaBuy,31224.47,Annual subscription
+2025-07-02,HR,TrainingCo,46818.2,Suspicious fee
+2025-07-24,Sales,TravelCo,30808.7,Duplicate entry
+2025-07-22,Fuel Ops,PumpMaster,36078.57,Unexpected charge
+2025-07-09,Admin,FixIt,10502.26,Conference
+2025-07-27,IT,CloudNet,47403.31,Emergency order
+2025-07-29,Logistics,ShipFast,37846.97,Annual subscription
+2025-07-01,HR,TrainingCo,402.73,Suspicious fee
+2025-07-13,IT,CloudNet,4358.47,Conference
+2025-07-07,Procurement,SupplyMart,45166.27,Suspicious fee
+2025-07-02,IT,SoftWorld,39997.46,Annual subscription
+2025-07-25,Logistics,Transpo,49124.96,Annual subscription
+2025-07-23,Logistics,Transpo,23308.36,Routine purchase
+2025-07-10,IT,SoftWorld,39485.45,Unexpected charge
+2025-07-14,IT,CloudNet,3152.82,Duplicate entry
+2025-07-06,Procurement,MegaBuy,32134.81,Emergency order
+2025-07-18,Procurement,SupplyMart,17935.26,Routine purchase
+2025-07-30,IT,CloudNet,44399.47,Emergency order
+2025-07-21,Logistics,CargoLine,42854.43,Conference
+2025-07-15,Finance,Consultant,11718.77,Routine purchase
+2025-07-04,Sales,HotelLux,6960.9,Unexpected charge
+2025-07-23,Fuel Ops,TechServ,9069.27,Annual subscription
+2025-07-10,Fuel Ops,TechServ,21583.19,Maintenance contract
+2025-07-11,Finance,Consultant,8784.88,Conference
+2025-07-20,Logistics,Transpo,24270.35,Suspicious fee
+2025-07-06,Procurement,SupplyMart,51201.76,Conference
+2025-07-27,HR,TrainingCo,25798.54,Maintenance contract
+2025-07-21,Logistics,Transpo,25744.73,Routine purchase
+2025-07-30,Sales,TravelCo,25093.54,Maintenance contract
+2025-07-07,Admin,CleanCo,57984.75,Unexpected charge
+2025-07-14,Admin,CleanCo,44485.73,Conference
+2025-07-08,HR,TrainingCo,50781.7,Annual subscription
+2025-07-24,IT,DataSys,32608.04,Duplicate entry
+2025-07-02,Procurement,MegaBuy,15421.76,Duplicate entry
+2025-07-08,IT,CloudNet,19857.66,Maintenance contract
+2025-07-03,Finance,Consultant,36236.89,Suspicious fee
+2025-07-01,Fuel Ops,SafetyFirst,12769.29,Conference
+2025-07-13,HR,TrainingCo,59863.92,Suspicious fee
+2025-07-09,Admin,CleanCo,38248.96,Unexpected charge
+2025-07-24,IT,CloudNet,25655.55,Unexpected charge
+2025-07-15,Fuel Ops,TechServ,8636.01,Emergency order
+2025-07-08,Sales,HotelLux,53998.17,Suspicious fee
+2025-07-23,IT,SoftWorld,48645.27,Routine purchase
+2025-07-17,Finance,LegalAid,16027.82,Unexpected charge
+2025-07-02,Sales,AdBoard,57674.76,Emergency order
+2025-07-11,Fuel Ops,TechServ,17130.27,Annual subscription
+2025-07-19,Admin,StationeryPlus,40406.09,Annual subscription
+2025-07-02,Admin,CleanCo,14391.51,Maintenance contract
+2025-07-02,Sales,HotelLux,35282.66,Duplicate entry
+2025-07-02,Fuel Ops,PumpMaster,32051.02,Annual subscription
+2025-07-01,IT,CloudNet,7182.52,Suspicious fee
+2025-07-18,Logistics,Transpo,33642.47,Unexpected charge
+2025-07-07,Fuel Ops,SafetyFirst,15476.86,Emergency order
+2025-07-24,Admin,CleanCo,7866.12,Conference
+2025-07-27,Procurement,SupplyMart,23296.5,Maintenance contract
+2025-07-11,Logistics,Transpo,44371.98,Suspicious fee
+2025-07-12,Sales,TravelCo,13535.07,Emergency order
+2025-07-24,IT,CloudNet,21954.21,Conference
+2025-07-17,Logistics,CargoLine,28851.94,Emergency order
+2025-07-18,Procurement,EquipHub,48993.92,Maintenance contract
+2025-07-10,Finance,Consultant,44573.04,Routine purchase
+2025-07-28,Admin,CleanCo,12406.06,Unexpected charge
