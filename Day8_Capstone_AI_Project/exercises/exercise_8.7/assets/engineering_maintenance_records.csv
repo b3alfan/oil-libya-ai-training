@@ -1,0 +1,351 @@
+Date,Equipment,Issue Reported,Severity,Action Taken
+2025-04-11,Generator-X,Oil leak,Medium,Escalated to engineering
+2025-05-19,Boiler-1,Vibration,Medium,Temporary fix
+2025-04-14,Valve-3,Overheating,Low,Temporary fix
+2025-05-14,Pump-C,Vibration,Low,Awaiting spare parts
+2025-03-25,Valve-3,Electrical fault,High,Adjusted settings
+2025-01-11,Boiler-2,Low pressure,Medium,Part replaced
+2025-06-09,Valve-3,Low pressure,High,Escalated to engineering
+2025-01-05,Pump-C,Overheating,Medium,Routine check
+2025-07-24,Pump-A,Unusual noise,High,Temporary fix
+2025-04-21,Valve-3,Low pressure,Medium,Awaiting spare parts
+2025-06-15,Pump-C,Low pressure,Medium,Awaiting spare parts
+2025-07-08,Valve-3,Vibration,Low,Temporary fix
+2025-03-14,Generator-X,Filter clogging,High,Temporary fix
+2025-05-10,Boiler-1,Oil leak,High,Temporary fix
+2025-04-23,Pump-B,High pressure,Low,Part replaced
+2025-05-20,Generator-Y,Filter clogging,Medium,Adjusted settings
+2025-02-20,Boiler-2,Overheating,High,Routine check
+2025-04-26,Compressor-2,Electrical fault,Low,Escalated to engineering
+2025-06-07,Pump-B,Filter clogging,High,Adjusted settings
+2025-05-17,Boiler-1,Electrical fault,Low,Awaiting spare parts
+2025-06-09,Valve-3,Electrical fault,Medium,Awaiting spare parts
+2025-07-03,Pump-C,Overheating,High,Lubricated
+2025-05-28,Compressor-1,Filter clogging,Low,Temporary fix
+2025-07-22,Boiler-2,High pressure,High,Temporary fix
+2025-01-01,Generator-Y,Overheating,High,Temporary fix
+2025-07-22,Compressor-1,High pressure,High,Routine check
+2025-03-10,Pump-A,High pressure,Medium,Escalated to engineering
+2025-04-08,Valve-3,High pressure,Medium,Temporary fix
+2025-05-26,Pump-A,Oil leak,Low,Temporary fix
+2025-02-12,Compressor-2,Overheating,High,Escalated to engineering
+2025-03-29,Generator-X,Low pressure,Low,Lubricated
+2025-05-15,Generator-Y,Filter clogging,Medium,Awaiting spare parts
+2025-02-20,Pump-C,High pressure,High,Escalated to engineering
+2025-03-17,Pump-C,Unusual noise,Low,Temporary fix
+2025-06-24,Boiler-2,Low pressure,Medium,Escalated to engineering
+2025-02-26,Compressor-1,Vibration,Medium,Lubricated
+2025-02-12,Compressor-2,Vibration,High,Temporary fix
+2025-03-25,Pump-C,High pressure,Medium,Temporary fix
+2025-02-15,Generator-X,Electrical fault,High,Part replaced
+2025-02-13,Generator-Y,Unusual noise,High,Escalated to engineering
+2025-02-26,Generator-X,High pressure,Low,Routine check
+2025-05-10,Pump-B,Electrical fault,Medium,Lubricated
+2025-01-07,Boiler-1,Low pressure,High,Adjusted settings
+2025-03-25,Pump-A,High pressure,Medium,Escalated to engineering
+2025-07-17,Compressor-2,Low pressure,Low,Part replaced
+2025-02-19,Compressor-2,Vibration,High,Temporary fix
+2025-05-28,Pump-B,Vibration,High,Adjusted settings
+2025-05-04,Pump-C,Oil leak,High,Part replaced
+2025-06-30,Generator-X,Unusual noise,Low,Lubricated
+2025-01-23,Generator-X,Unusual noise,Medium,Adjusted settings
+2025-01-23,Generator-X,Low pressure,Low,Adjusted settings
+2025-03-25,Generator-X,Unusual noise,Low,Routine check
+2025-07-06,Pump-C,High pressure,Low,Awaiting spare parts
+2025-07-29,Generator-Y,Filter clogging,High,Temporary fix
+2025-01-25,Compressor-1,Electrical fault,Medium,Adjusted settings
+2025-01-12,Pump-A,Low pressure,Low,Escalated to engineering
+2025-06-28,Pump-B,Low pressure,Low,Escalated to engineering
+2025-01-10,Generator-X,Overheating,Medium,Adjusted settings
+2025-06-07,Boiler-2,Vibration,High,Temporary fix
+2025-05-15,Boiler-1,Oil leak,High,Awaiting spare parts
+2025-02-03,Boiler-1,Oil leak,Medium,Lubricated
+2025-02-03,Compressor-1,High pressure,Low,Adjusted settings
+2025-02-05,Generator-X,Electrical fault,Low,Adjusted settings
+2025-03-25,Valve-3,Electrical fault,Medium,Escalated to engineering
+2025-05-18,Boiler-1,Low pressure,Low,Lubricated
+2025-02-05,Boiler-1,High pressure,Medium,Awaiting spare parts
+2025-07-09,Compressor-2,High pressure,High,Temporary fix
+2025-04-19,Generator-X,High pressure,High,Escalated to engineering
+2025-06-07,Compressor-2,Overheating,Low,Awaiting spare parts
+2025-03-19,Valve-3,Vibration,High,Routine check
+2025-04-20,Generator-X,Oil leak,Low,Part replaced
+2025-01-11,Pump-A,Overheating,Medium,Escalated to engineering
+2025-04-06,Compressor-1,Unusual noise,Low,Routine check
+2025-02-03,Pump-B,High pressure,Medium,Escalated to engineering
+2025-01-18,Compressor-1,Oil leak,Medium,Lubricated
+2025-05-04,Pump-A,Unusual noise,High,Temporary fix
+2025-04-19,Boiler-2,Overheating,Low,Temporary fix
+2025-03-14,Compressor-2,Low pressure,High,Escalated to engineering
+2025-05-15,Valve-3,Electrical fault,High,Adjusted settings
+2025-06-08,Boiler-1,Overheating,High,Adjusted settings
+2025-02-26,Generator-Y,Filter clogging,Medium,Temporary fix
+2025-07-04,Compressor-2,Electrical fault,High,Part replaced
+2025-01-02,Pump-C,High pressure,High,Escalated to engineering
+2025-07-09,Pump-C,High pressure,Low,Lubricated
+2025-01-18,Boiler-2,Unusual noise,Low,Escalated to engineering
+2025-07-01,Boiler-2,Vibration,Low,Temporary fix
+2025-02-18,Pump-B,Overheating,High,Part replaced
+2025-02-06,Pump-A,Low pressure,Low,Awaiting spare parts
+2025-01-16,Generator-Y,Oil leak,High,Routine check
+2025-03-04,Generator-Y,Low pressure,Low,Adjusted settings
+2025-02-22,Boiler-2,Filter clogging,Low,Lubricated
+2025-05-17,Pump-C,Filter clogging,High,Adjusted settings
+2025-06-30,Pump-B,Filter clogging,Low,Part replaced
+2025-03-31,Boiler-1,Filter clogging,Medium,Lubricated
+2025-07-11,Generator-X,Low pressure,Low,Adjusted settings
+2025-04-08,Pump-C,Oil leak,Low,Lubricated
+2025-06-08,Pump-B,Filter clogging,High,Adjusted settings
+2025-05-22,Compressor-1,Vibration,Low,Adjusted settings
+2025-05-21,Pump-C,Filter clogging,High,Routine check
+2025-05-01,Pump-C,Vibration,High,Adjusted settings
+2025-02-25,Compressor-1,Filter clogging,High,Escalated to engineering
+2025-07-06,Compressor-1,Overheating,Low,Escalated to engineering
+2025-03-25,Pump-C,Overheating,High,Part replaced
+2025-05-26,Valve-3,Unusual noise,Medium,Temporary fix
+2025-02-13,Pump-B,Electrical fault,Medium,Escalated to engineering
+2025-06-18,Valve-3,Vibration,Medium,Temporary fix
+2025-03-02,Boiler-2,Overheating,Low,Part replaced
+2025-03-25,Generator-X,Unusual noise,High,Escalated to engineering
+2025-05-19,Compressor-1,High pressure,Medium,Awaiting spare parts
+2025-03-10,Generator-Y,Vibration,High,Adjusted settings
+2025-06-15,Boiler-1,Filter clogging,Low,Part replaced
+2025-07-26,Generator-Y,Low pressure,Low,Part replaced
+2025-05-27,Generator-X,Low pressure,Medium,Escalated to engineering
+2025-05-28,Boiler-1,Vibration,Medium,Part replaced
+2025-06-04,Valve-3,Filter clogging,Low,Routine check
+2025-05-27,Pump-C,Filter clogging,Low,Routine check
+2025-01-15,Generator-X,Unusual noise,High,Temporary fix
+2025-04-30,Boiler-2,Filter clogging,Low,Temporary fix
+2025-02-24,Boiler-1,High pressure,High,Part replaced
+2025-05-23,Boiler-2,Unusual noise,Low,Part replaced
+2025-01-08,Pump-B,Overheating,Medium,Escalated to engineering
+2025-04-12,Pump-A,Unusual noise,Low,Part replaced
+2025-01-12,Compressor-2,Filter clogging,High,Awaiting spare parts
+2025-04-30,Boiler-2,Filter clogging,High,Lubricated
+2025-02-23,Generator-X,High pressure,Low,Part replaced
+2025-06-13,Boiler-2,Electrical fault,Low,Routine check
+2025-02-21,Pump-A,Low pressure,Low,Lubricated
+2025-04-10,Pump-B,High pressure,Medium,Routine check
+2025-01-18,Generator-X,Overheating,High,Part replaced
+2025-05-27,Pump-B,Oil leak,Low,Escalated to engineering
+2025-06-14,Valve-3,Overheating,High,Escalated to engineering
+2025-05-31,Generator-X,Oil leak,Medium,Routine check
+2025-02-20,Boiler-1,Low pressure,High,Temporary fix
+2025-05-11,Compressor-1,Oil leak,Low,Awaiting spare parts
+2025-01-02,Valve-3,Electrical fault,Low,Adjusted settings
+2025-02-23,Valve-3,Filter clogging,High,Routine check
+2025-01-30,Pump-C,Electrical fault,High,Routine check
+2025-02-08,Pump-C,Vibration,Low,Part replaced
+2025-01-31,Boiler-1,Electrical fault,High,Adjusted settings
+2025-02-05,Pump-A,Vibration,High,Awaiting spare parts
+2025-06-22,Pump-B,Vibration,Medium,Routine check
+2025-04-14,Pump-B,Overheating,Low,Part replaced
+2025-01-31,Valve-3,Oil leak,Low,Adjusted settings
+2025-07-05,Generator-X,Filter clogging,Low,Part replaced
+2025-06-09,Compressor-1,Oil leak,High,Lubricated
+2025-02-19,Generator-Y,Electrical fault,Low,Lubricated
+2025-05-18,Pump-A,Overheating,High,Adjusted settings
+2025-06-20,Compressor-2,Vibration,Medium,Part replaced
+2025-02-15,Pump-B,Vibration,Low,Lubricated
+2025-07-22,Boiler-2,Electrical fault,High,Temporary fix
+2025-02-05,Generator-X,Oil leak,High,Awaiting spare parts
+2025-03-25,Pump-C,Overheating,Medium,Awaiting spare parts
+2025-04-07,Pump-C,Oil leak,High,Escalated to engineering
+2025-02-19,Generator-X,High pressure,Medium,Temporary fix
+2025-07-22,Pump-B,Oil leak,Low,Escalated to engineering
+2025-07-03,Valve-3,High pressure,High,Part replaced
+2025-05-30,Boiler-1,Oil leak,Low,Escalated to engineering
+2025-02-28,Boiler-1,Vibration,Medium,Part replaced
+2025-02-18,Generator-Y,High pressure,Medium,Awaiting spare parts
+2025-05-19,Generator-X,Electrical fault,Low,Lubricated
+2025-02-24,Pump-A,Low pressure,High,Routine check
+2025-07-19,Pump-C,Oil leak,Medium,Part replaced
+2025-01-14,Generator-Y,Vibration,High,Lubricated
+2025-02-11,Boiler-1,Unusual noise,Medium,Awaiting spare parts
+2025-03-13,Pump-A,Overheating,High,Awaiting spare parts
+2025-01-16,Boiler-1,Vibration,Medium,Adjusted settings
+2025-06-01,Pump-A,Electrical fault,Low,Part replaced
+2025-02-02,Compressor-2,Vibration,Medium,Lubricated
+2025-03-08,Pump-C,Oil leak,High,Part replaced
+2025-07-01,Compressor-2,Oil leak,Low,Part replaced
+2025-02-01,Pump-A,High pressure,Medium,Adjusted settings
+2025-05-25,Boiler-1,High pressure,Medium,Adjusted settings
+2025-06-09,Pump-B,High pressure,High,Adjusted settings
+2025-06-23,Generator-X,High pressure,Medium,Lubricated
+2025-02-14,Compressor-1,Low pressure,Low,Adjusted settings
+2025-02-05,Compressor-2,Filter clogging,Low,Adjusted settings
+2025-01-29,Pump-A,Oil leak,Low,Escalated to engineering
+2025-07-24,Boiler-2,Vibration,Low,Routine check
+2025-01-07,Generator-Y,Unusual noise,Medium,Routine check
+2025-04-13,Compressor-2,Vibration,Low,Adjusted settings
+2025-04-19,Boiler-2,Oil leak,Low,Awaiting spare parts
+2025-05-13,Pump-B,High pressure,Low,Adjusted settings
+2025-02-07,Valve-3,Oil leak,High,Escalated to engineering
+2025-01-28,Generator-X,Oil leak,Low,Adjusted settings
+2025-02-20,Boiler-2,Oil leak,Medium,Adjusted settings
+2025-01-27,Compressor-1,Oil leak,High,Adjusted settings
+2025-02-28,Generator-X,Vibration,Medium,Routine check
+2025-04-03,Boiler-2,Low pressure,Medium,Adjusted settings
+2025-02-21,Generator-Y,Overheating,High,Routine check
+2025-02-20,Pump-A,Oil leak,Medium,Awaiting spare parts
+2025-02-16,Generator-X,High pressure,Medium,Adjusted settings
+2025-06-30,Generator-Y,Low pressure,Low,Adjusted settings
+2025-02-22,Pump-B,Oil leak,Low,Lubricated
+2025-06-21,Compressor-1,Electrical fault,Medium,Part replaced
+2025-03-07,Generator-Y,Electrical fault,Low,Adjusted settings
+2025-01-21,Generator-X,Vibration,Low,Awaiting spare parts
+2025-02-05,Boiler-1,Oil leak,Low,Routine check
+2025-03-10,Generator-Y,Electrical fault,Low,Adjusted settings
+2025-03-21,Generator-X,Oil leak,Low,Escalated to engineering
+2025-07-23,Pump-B,Oil leak,High,Adjusted settings
+2025-05-05,Boiler-1,Vibration,Low,Lubricated
+2025-01-06,Compressor-2,Unusual noise,High,Awaiting spare parts
+2025-01-18,Valve-3,Low pressure,Low,Awaiting spare parts
+2025-03-22,Compressor-1,Vibration,Low,Lubricated
+2025-01-11,Compressor-2,Oil leak,High,Escalated to engineering
+2025-03-18,Valve-3,Filter clogging,High,Adjusted settings
+2025-05-16,Boiler-1,Unusual noise,Low,Temporary fix
+2025-02-20,Boiler-1,Filter clogging,Low,Temporary fix
+2025-07-28,Generator-Y,Electrical fault,High,Awaiting spare parts
+2025-07-11,Compressor-2,Vibration,Medium,Adjusted settings
+2025-01-26,Pump-C,Unusual noise,Medium,Adjusted settings
+2025-01-13,Boiler-1,Filter clogging,Medium,Awaiting spare parts
+2025-03-05,Compressor-1,Overheating,Medium,Escalated to engineering
+2025-04-22,Pump-C,Unusual noise,High,Temporary fix
+2025-05-12,Valve-3,Low pressure,High,Awaiting spare parts
+2025-01-30,Valve-3,Filter clogging,Low,Escalated to engineering
+2025-01-18,Compressor-2,Overheating,High,Adjusted settings
+2025-02-05,Pump-A,Unusual noise,Low,Adjusted settings
+2025-05-12,Boiler-1,Overheating,Low,Routine check
+2025-04-16,Pump-A,Overheating,High,Temporary fix
+2025-06-18,Pump-A,Low pressure,High,Routine check
+2025-07-24,Pump-B,Unusual noise,High,Lubricated
+2025-06-29,Valve-3,Filter clogging,Low,Part replaced
+2025-01-22,Boiler-1,Oil leak,High,Temporary fix
+2025-05-09,Valve-3,Low pressure,High,Temporary fix
+2025-01-08,Pump-B,Electrical fault,Medium,Lubricated
+2025-05-17,Pump-C,Overheating,Low,Escalated to engineering
+2025-04-26,Generator-X,Unusual noise,Medium,Awaiting spare parts
+2025-05-10,Generator-X,Filter clogging,High,Routine check
+2025-02-14,Pump-A,Oil leak,High,Lubricated
+2025-01-12,Generator-Y,Filter clogging,Medium,Lubricated
+2025-06-20,Pump-B,Overheating,Low,Escalated to engineering
+2025-04-08,Valve-3,Vibration,High,Lubricated
+2025-04-14,Pump-B,Vibration,High,Part replaced
+2025-05-08,Valve-3,Low pressure,Low,Escalated to engineering
+2025-06-03,Generator-Y,Overheating,High,Adjusted settings
+2025-07-12,Generator-Y,Filter clogging,High,Temporary fix
+2025-01-13,Compressor-2,Oil leak,Medium,Awaiting spare parts
+2025-02-28,Pump-B,Low pressure,Low,Escalated to engineering
+2025-07-22,Valve-3,Electrical fault,Medium,Routine check
+2025-04-20,Pump-A,Filter clogging,High,Awaiting spare parts
+2025-03-05,Pump-C,Filter clogging,High,Lubricated
+2025-07-26,Boiler-2,Unusual noise,High,Lubricated
+2025-04-07,Generator-X,Vibration,Medium,Escalated to engineering
+2025-05-29,Generator-Y,Overheating,High,Lubricated
+2025-01-12,Valve-3,Electrical fault,High,Temporary fix
+2025-03-14,Valve-3,Electrical fault,High,Adjusted settings
+2025-03-05,Compressor-2,Electrical fault,Medium,Routine check
+2025-04-26,Boiler-2,Low pressure,Low,Part replaced
+2025-04-24,Pump-A,Overheating,Medium,Awaiting spare parts
+2025-01-27,Generator-Y,Overheating,Medium,Part replaced
+2025-05-29,Compressor-1,Electrical fault,High,Lubricated
+2025-05-20,Pump-C,Oil leak,High,Awaiting spare parts
+2025-07-22,Compressor-1,Low pressure,Medium,Awaiting spare parts
+2025-05-17,Boiler-2,Unusual noise,Low,Awaiting spare parts
+2025-04-22,Pump-C,Low pressure,Medium,Adjusted settings
+2025-02-08,Boiler-2,Filter clogging,High,Awaiting spare parts
+2025-01-18,Generator-Y,Oil leak,Low,Awaiting spare parts
+2025-01-23,Compressor-2,Vibration,Low,Part replaced
+2025-05-31,Compressor-1,High pressure,High,Temporary fix
+2025-06-13,Pump-C,Unusual noise,Medium,Temporary fix
+2025-01-28,Compressor-1,Unusual noise,High,Adjusted settings
+2025-04-15,Pump-A,High pressure,Low,Part replaced
+2025-01-12,Compressor-2,High pressure,High,Awaiting spare parts
+2025-01-25,Generator-Y,High pressure,High,Escalated to engineering
+2025-01-06,Pump-C,High pressure,Medium,Lubricated
+2025-05-07,Pump-C,Low pressure,High,Routine check
+2025-01-25,Generator-Y,High pressure,Low,Temporary fix
+2025-02-19,Compressor-2,Low pressure,High,Routine check
+2025-04-17,Generator-Y,Vibration,High,Adjusted settings
+2025-05-04,Pump-B,Overheating,Medium,Temporary fix
+2025-06-02,Boiler-2,Oil leak,High,Awaiting spare parts
+2025-07-06,Pump-A,Electrical fault,High,Adjusted settings
+2025-02-07,Pump-B,Low pressure,Medium,Routine check
+2025-03-11,Generator-Y,Vibration,Low,Escalated to engineering
+2025-03-25,Valve-3,Overheating,High,Adjusted settings
+2025-04-07,Compressor-2,Electrical fault,High,Awaiting spare parts
+2025-05-18,Valve-3,Unusual noise,High,Temporary fix
+2025-04-12,Valve-3,Filter clogging,High,Lubricated
+2025-04-08,Valve-3,Low pressure,Low,Temporary fix
+2025-03-25,Generator-X,Low pressure,High,Lubricated
+2025-01-13,Pump-B,Vibration,Low,Awaiting spare parts
+2025-07-04,Valve-3,Overheating,High,Routine check
+2025-07-19,Boiler-1,High pressure,High,Part replaced
+2025-04-08,Pump-A,High pressure,Low,Routine check
+2025-05-02,Pump-B,Electrical fault,High,Temporary fix
+2025-01-16,Compressor-1,Electrical fault,Medium,Part replaced
+2025-03-22,Compressor-1,Electrical fault,High,Temporary fix
+2025-02-02,Pump-B,Low pressure,Medium,Lubricated
+2025-06-03,Pump-A,Electrical fault,Low,Adjusted settings
+2025-01-13,Pump-A,Low pressure,Low,Escalated to engineering
+2025-03-18,Boiler-2,Low pressure,Low,Part replaced
+2025-03-17,Generator-Y,Electrical fault,Medium,Temporary fix
+2025-07-21,Boiler-2,Electrical fault,Medium,Adjusted settings
+2025-04-16,Pump-A,High pressure,Medium,Escalated to engineering
+2025-03-09,Pump-C,Oil leak,Medium,Escalated to engineering
+2025-03-22,Generator-Y,High pressure,Medium,Adjusted settings
+2025-03-29,Boiler-2,Oil leak,Medium,Awaiting spare parts
+2025-07-20,Compressor-2,High pressure,Low,Part replaced
+2025-07-20,Boiler-2,Oil leak,Low,Adjusted settings
+2025-03-04,Generator-X,Low pressure,Medium,Escalated to engineering
+2025-04-08,Pump-C,Overheating,Medium,Escalated to engineering
+2025-03-28,Compressor-2,Oil leak,Medium,Routine check
+2025-06-11,Generator-X,High pressure,Low,Part replaced
+2025-01-03,Generator-Y,Overheating,Low,Escalated to engineering
+2025-01-31,Pump-C,Overheating,Low,Lubricated
+2025-07-15,Boiler-1,Electrical fault,High,Adjusted settings
+2025-06-18,Boiler-1,Low pressure,Low,Adjusted settings
+2025-07-15,Generator-X,Vibration,Low,Adjusted settings
+2025-01-27,Pump-B,Overheating,High,Lubricated
+2025-01-26,Pump-B,High pressure,High,Escalated to engineering
+2025-07-28,Compressor-2,Electrical fault,Low,Routine check
+2025-07-14,Boiler-2,Oil leak,Medium,Routine check
+2025-05-31,Boiler-2,Electrical fault,High,Adjusted settings
+2025-05-07,Boiler-2,Overheating,Low,Part replaced
+2025-02-14,Valve-3,High pressure,Low,Adjusted settings
+2025-07-25,Compressor-2,Filter clogging,High,Part replaced
+2025-04-15,Compressor-2,Overheating,Medium,Temporary fix
+2025-01-20,Pump-C,Vibration,Low,Part replaced
+2025-02-22,Boiler-2,Low pressure,High,Part replaced
+2025-07-14,Boiler-1,High pressure,Medium,Part replaced
+2025-03-30,Valve-3,Electrical fault,High,Escalated to engineering
+2025-01-13,Boiler-1,High pressure,High,Escalated to engineering
+2025-02-13,Generator-X,Low pressure,Low,Awaiting spare parts
+2025-03-21,Pump-C,Vibration,High,Temporary fix
+2025-06-27,Compressor-1,High pressure,Medium,Lubricated
+2025-07-24,Compressor-2,Oil leak,High,Routine check
+2025-04-20,Compressor-2,Low pressure,Medium,Temporary fix
+2025-03-15,Boiler-1,High pressure,Low,Temporary fix
+2025-02-20,Pump-B,Vibration,Low,Part replaced
+2025-02-09,Boiler-1,Low pressure,High,Escalated to engineering
+2025-06-07,Boiler-1,Vibration,Medium,Adjusted settings
+2025-07-18,Generator-Y,Unusual noise,High,Part replaced
+2025-03-17,Pump-C,Filter clogging,Low,Part replaced
+2025-02-19,Boiler-2,Electrical fault,Low,Temporary fix
+2025-07-29,Pump-B,Filter clogging,High,Lubricated
+2025-01-04,Boiler-2,Oil leak,Low,Escalated to engineering
+2025-06-05,Generator-Y,Unusual noise,Low,Escalated to engineering
+2025-03-07,Generator-X,Unusual noise,Medium,Routine check
+2025-06-05,Compressor-1,High pressure,High,Temporary fix
+2025-05-09,Pump-C,Low pressure,Low,Awaiting spare parts
+2025-03-26,Compressor-1,Low pressure,Low,Routine check
+2025-06-29,Pump-B,Vibration,Medium,Temporary fix
+2025-04-23,Boiler-1,Low pressure,Low,Awaiting spare parts
+2025-04-19,Generator-X,Overheating,Medium,Lubricated
+2025-03-07,Generator-X,Low pressure,Medium,Lubricated
+2025-01-14,Boiler-2,Unusual noise,High,Escalated to engineering
+2025-04-03,Pump-B,Filter clogging,High,Awaiting spare parts
+2025-02-25,Boiler-1,Vibration,High,Routine check
+2025-06-25,Generator-X,Unusual noise,High,Temporary fix
